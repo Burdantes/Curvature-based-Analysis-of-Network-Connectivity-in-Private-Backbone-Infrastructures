@@ -1,0 +1,264 @@
+Google_London [1] London:10
+Google_Saint-Ghislain [1] London:10
+Google_Het Hogeland [1] London:10
+Google_Zurich [1] London:10
+Google_Frankfurt [1] London:10
+Google_Las Vegas [1] Las Vegas:10
+Google_Los Angeles [1] Las Vegas:10
+Google_Osaka [1] Osaka:10
+Google_Tokyo [1] Osaka:10
+Google_Council Bluffs [1] Council Bluffs:10
+Google_Moncks Corner [1] Moncks Corner:10
+Google_Ashburn [1] Ashburn:10
+Google_Portland [1] Portland:10
+Google_Salt Lake City [1] Salt Lake City:10
+Google_Montreal [1] Montreal:10
+Google_Hamina [1] Hamina:10
+Google_Taipei [1] Taipei:10
+Google_Hong Kong [1] Hong Kong:10
+Google_Seoul [1] Seoul:10
+Google_Singapore [1] Singapore:10
+Google_Jakarta [1] Jakarta:10
+Google_Mumbai [1] Mumbai:10
+Google_Sydney [1] Sydney:10
+Google_Sao Paulo [1] Sao Paulo:10
+London:10 [1] London:20
+London:10 [1] London:20
+London:10 [1] London:20
+London:10 [1] London:20
+London:10 [1] London:20
+Montreal:10 [1] Montreal:20
+Ashburn:10 [1] Montreal:20
+Moncks Corner:10 [1] Montreal:20
+Las Vegas:10 [1] Las Vegas:20
+Salt Lake City:10 [1] Las Vegas:20
+Las Vegas:10 [1] Las Vegas:20
+Hong Kong:10 [1] Hong Kong:20
+Taipei:10 [1] Hong Kong:20
+Osaka:10 [1] Osaka:20
+Osaka:10 [1] Osaka:20
+Singapore:10 [1] Singapore:20
+Jakarta:10 [1] Singapore:20
+Council Bluffs:10 [1] Council Bluffs:20
+Portland:10 [1] Portland:20
+Hamina:10 [1] Hamina:20
+Seoul:10 [1] Seoul:20
+Mumbai:10 [1] Mumbai:20
+Sydney:10 [1] Sydney:20
+Sao Paulo:10 [1] Sao Paulo:20
+Council Bluffs:20 [1] Council Bluffs:30
+Las Vegas:20 [1] Council Bluffs:30
+Portland:20 [1] Council Bluffs:30
+Montreal:20 [1] Council Bluffs:30
+Montreal:20 [1] Council Bluffs:30
+Las Vegas:20 [1] Council Bluffs:30
+Las Vegas:20 [1] Council Bluffs:30
+Montreal:20 [1] Council Bluffs:30
+London:20 [1] London:30
+London:20 [1] London:30
+London:20 [1] London:30
+London:20 [1] London:30
+London:20 [1] London:30
+Hamina:20 [1] London:30
+Osaka:20 [1] Tokyo:30
+Osaka:20 [1] Tokyo:30
+Seoul:20 [1] Tokyo:30
+Hong Kong:20 [1] Tokyo:30
+Hong Kong:20 [1] Tokyo:30
+Singapore:20 [1] Singapore:30
+Singapore:20 [1] Singapore:30
+Mumbai:20 [1] Mumbai:30
+Sydney:20 [1] Sydney:30
+Sao Paulo:20 [1] Sao Paulo:30
+Council Bluffs:30 [1] Council Bluffs:40
+Council Bluffs:30 [1] Council Bluffs:40
+Council Bluffs:30 [1] Council Bluffs:40
+Council Bluffs:30 [1] Council Bluffs:40
+Council Bluffs:30 [1] Council Bluffs:40
+Council Bluffs:30 [1] Council Bluffs:40
+Council Bluffs:30 [1] Council Bluffs:40
+Council Bluffs:30 [1] Council Bluffs:40
+Tokyo:30 [1] Tokyo:40
+Tokyo:30 [1] Tokyo:40
+Tokyo:30 [1] Tokyo:40
+Singapore:30 [1] Tokyo:40
+Tokyo:30 [1] Tokyo:40
+Tokyo:30 [1] Tokyo:40
+Singapore:30 [1] Tokyo:40
+London:30 [1] London:40
+London:30 [1] London:40
+London:30 [1] London:40
+London:30 [1] London:40
+London:30 [1] London:40
+London:30 [1] London:40
+Mumbai:30 [1] Mumbai:40
+Sydney:30 [1] Sydney:40
+Sao Paulo:30 [1] Sao Paulo:40
+Council Bluffs:40 [1] Council Bluffs:50
+Council Bluffs:40 [1] Council Bluffs:50
+Council Bluffs:40 [1] Council Bluffs:50
+Council Bluffs:40 [1] Council Bluffs:50
+Council Bluffs:40 [1] Council Bluffs:50
+Council Bluffs:40 [1] Council Bluffs:50
+Council Bluffs:40 [1] Council Bluffs:50
+Council Bluffs:40 [1] Council Bluffs:50
+Tokyo:40 [1] Tokyo:50
+Mumbai:40 [1] Tokyo:50
+Tokyo:40 [1] Tokyo:50
+Tokyo:40 [1] Tokyo:50
+Tokyo:40 [1] Tokyo:50
+Tokyo:40 [1] Tokyo:50
+Tokyo:40 [1] Tokyo:50
+Tokyo:40 [1] Tokyo:50
+London:40 [1] London:50
+London:40 [1] London:50
+London:40 [1] London:50
+London:40 [1] London:50
+London:40 [1] London:50
+London:40 [1] London:50
+Sydney:40 [1] Sydney:50
+Sao Paulo:40 [1] Sao Paulo:50
+Council Bluffs:50 [1] Council Bluffs:60
+Council Bluffs:50 [1] Council Bluffs:60
+Council Bluffs:50 [1] Council Bluffs:60
+Council Bluffs:50 [1] Council Bluffs:60
+Council Bluffs:50 [1] Council Bluffs:60
+Council Bluffs:50 [1] Council Bluffs:60
+Council Bluffs:50 [1] Council Bluffs:60
+Council Bluffs:50 [1] Council Bluffs:60
+Tokyo:50 [1] Tokyo:60
+Tokyo:50 [1] Tokyo:60
+Tokyo:50 [1] Tokyo:60
+Tokyo:50 [1] Tokyo:60
+Tokyo:50 [1] Tokyo:60
+Tokyo:50 [1] Tokyo:60
+Tokyo:50 [1] Tokyo:60
+Tokyo:50 [1] Tokyo:60
+London:50 [1] London:60
+London:50 [1] London:60
+London:50 [1] London:60
+London:50 [1] London:60
+London:50 [1] London:60
+London:50 [1] London:60
+Sydney:50 [1] Sydney:60
+Sao Paulo:50 [1] Sao Paulo:60
+Council Bluffs:60 [1] Council Bluffs:70
+London:60 [1] Council Bluffs:70
+London:60 [1] Council Bluffs:70
+Council Bluffs:60 [1] Council Bluffs:70
+Council Bluffs:60 [1] Council Bluffs:70
+London:60 [1] Council Bluffs:70
+London:60 [1] Council Bluffs:70
+London:60 [1] Council Bluffs:70
+Council Bluffs:60 [1] Council Bluffs:70
+Council Bluffs:60 [1] Council Bluffs:70
+Council Bluffs:60 [1] Council Bluffs:70
+Council Bluffs:60 [1] Council Bluffs:70
+London:60 [1] Council Bluffs:70
+Council Bluffs:60 [1] Council Bluffs:70
+Tokyo:60 [1] Tokyo:70
+Tokyo:60 [1] Tokyo:70
+Tokyo:60 [1] Tokyo:70
+Tokyo:60 [1] Tokyo:70
+Tokyo:60 [1] Tokyo:70
+Tokyo:60 [1] Tokyo:70
+Tokyo:60 [1] Tokyo:70
+Tokyo:60 [1] Tokyo:70
+Sydney:60 [1] Sydney:70
+Sao Paulo:60 [1] Sao Paulo:70
+Tokyo:70 [1] Tokyo:80
+Tokyo:70 [1] Tokyo:80
+Tokyo:70 [1] Tokyo:80
+Council Bluffs:70 [1] Tokyo:80
+Council Bluffs:70 [1] Tokyo:80
+Tokyo:70 [1] Tokyo:80
+Council Bluffs:70 [1] Tokyo:80
+Tokyo:70 [1] Tokyo:80
+Council Bluffs:70 [1] Tokyo:80
+Tokyo:70 [1] Tokyo:80
+Council Bluffs:70 [1] Tokyo:80
+Council Bluffs:70 [1] Tokyo:80
+Council Bluffs:70 [1] Tokyo:80
+Tokyo:70 [1] Tokyo:80
+Council Bluffs:70 [1] Tokyo:80
+Council Bluffs:70 [1] Tokyo:80
+Council Bluffs:70 [1] Tokyo:80
+Council Bluffs:70 [1] Tokyo:80
+Council Bluffs:70 [1] Tokyo:80
+Council Bluffs:70 [1] Tokyo:80
+Tokyo:70 [1] Tokyo:80
+Council Bluffs:70 [1] Tokyo:80
+Sydney:70 [1] Sydney:80
+Sao Paulo:70 [1] Sao Paulo:80
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Sydney:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Tokyo:80 [1] Tokyo:90
+Sao Paulo:80 [1] Sao Paulo:90
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Tokyo:90 [1] Tokyo:100
+Sao Paulo:90 [1] Sao Paulo:100
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Sao Paulo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110
+Tokyo:100 [1] Tokyo:110

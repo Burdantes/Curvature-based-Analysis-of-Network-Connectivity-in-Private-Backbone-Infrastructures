@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="sankey_svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2000 1000" style="enable-background:new 0 0 2000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#C0C0C0;stroke-width:5;stroke-opacity:0.4;}
+	.st2{fill:none;stroke:#C6EF00;stroke-width:5;stroke-opacity:0.4;}
+	.st3{fill:none;stroke:#FFBE58;stroke-width:5;stroke-opacity:0.4;}
+	.st4{fill:none;stroke:#4182FF;stroke-width:5;stroke-opacity:0.4;}
+	.st5{fill:none;stroke:#1000E0;stroke-width:5;stroke-opacity:0.4;}
+	.st6{fill:none;stroke:#BDF4FF;stroke-width:5;stroke-opacity:0.4;}
+	.st7{fill:none;stroke:#FF5F45;stroke-width:5;stroke-opacity:0.4;}
+	.st8{fill:none;stroke:#FF5E3D;stroke-width:5;stroke-opacity:0.4;}
+	.st9{fill:none;stroke:#B50F00;stroke-width:5;stroke-opacity:0.4;}
+	.st10{fill:#03D1FF;stroke:#000000;stroke-width:5;}
+	.st11{font-family:'Helvetica-Bold';}
+	.st12{font-size:20px;}
+	.st13{font-size:24px;}
+	.st14{fill:#F70014;stroke:#000000;stroke-width:5;}
+	.st15{enable-background:new    ;}
+	.st16{fill:#00EF23;stroke:#000000;stroke-width:5;}
+	.st17{fill:#7B006E;stroke:#000000;stroke-width:5;}
+	.st18{font-size:24.1583px;}
+	.st19{fill:#C5C000;stroke:#000000;stroke-width:5;}
+	.st20{font-size:20.4574px;}
+	.st21{font-size:23.7116px;}
+	.st22{font-size:12px;}
+	.st23{letter-spacing:29;}
+	.st24{fill:#942193;fill-opacity:0.9;}
+	.st25{font-size:33.8971px;}
+	.st26{font-size:34.5069px;}
+	.st27{font-size:34px;}
+	.st28{font-size:40.8928px;}
+</style>
+<title>Your Diagram Title</title>
+<g>
+	<rect x="-311.1" y="-77.9" class="st0" width="2518.4" height="1080.1"/>
+	<path class="st1" d="M240.9,21.8c37.3,0,149.3,58.6,186.6,58.6	">
+<title>AWS_Los Angeles → Los Angeles#0:10:
+1</title>
+	</path>
+	<path class="st2" d="M240.9,67c37.3,0,149.3,40.6,186.6,40.6	">
+<title>AWS_Ashburn → Los Angeles#0:10:
+1</title>
+	</path>
+	<path class="st1" d="M240.9,112.2c37.3,0,149.3,22.6,186.6,22.6	">
+<title>AWS_Columbus → Los Angeles#0:10:
+1</title>
+	</path>
+	<path class="st2" d="M240.9,157.3c37.3,0,149.3,4.6,186.6,4.6	">
+<title>AWS_Charlotte → Los Angeles#0:10:
+1</title>
+	</path>
+	<path class="st1" d="M240.9,202.5c37.3,0,149.3-13.4,186.6-13.4	">
+<title>AWS_San Francisco → Los Angeles#0:10:
+1</title>
+	</path>
+	<path class="st2" d="M240.9,338.1c37.3,0,149.3,32.8,186.6,32.8	">
+<title>AWS_Paris → Paris#0:10:
+1</title>
+	</path>
+	<path class="st2" d="M240.9,383.2c37.3,0,149.3,14.8,186.6,14.8	">
+<title>AWS_London → Paris#0:10:
+1</title>
+	</path>
+	<path class="st1" d="M240.9,428.4c37.3,0,149.3-3.2,186.6-3.2	">
+<title>AWS_Frankfurt am Main → Paris#0:10:
+1</title>
+	</path>
+	<path class="st1" d="M240.9,473.6c37.3,0,149.3-21.2,186.6-21.2	">
+<title>AWS_Dublin → Paris#0:10:
+1</title>
+	</path>
+	<path class="st2" d="M240.9,699.5c37.3,0,149.3,8.5,186.6,8.5	">
+<title>AWS_Osaka → Osaka#0:10:
+1</title>
+	</path>
+	<path class="st2" d="M240.9,744.7c37.3,0,149.3-9.5,186.6-9.5	">
+<title>AWS_Tokyo → Osaka#0:10:
+1</title>
+	</path>
+	<path class="st1" d="M240.9,247.7c37.3,0,149.3,8.3,186.6,8.3	">
+<title>AWS_Portland → Portland#0:10:
+1</title>
+	</path>
+	<path class="st1" d="M240.9,292.9c37.3,0,149.3,8.3,186.6,8.3	">
+<title>AWS_Montreal → Montreal#0:10:
+1</title>
+	</path>
+	<path class="st1" d="M240.9,564c37.3,0,149.3,3,186.6,3	">
+<title>AWS_Mumbai → Mumbai#0:10:
+1</title>
+	</path>
+	<path class="st1" d="M240.9,970.6c37.3,0,149.3-4.1,186.6-4.1	">
+<title>AWS_Sao Paulo → Sao Paulo#0:10:
+1</title>
+	</path>
+	<path class="st1" d="M240.9,789.9c37.3,0,149.3-4.1,186.6-4.1	">
+<title>AWS_Seoul → Seoul#0:10:
+1</title>
+	</path>
+	<path class="st1" d="M240.9,654.3c37.3,0,149.3,3,186.6,3	">
+<title>AWS_Singapore → Singapore#0:10:
+1</title>
+	</path>
+	<path class="st1" d="M240.9,518.8c37.3,0,149.3-4.9,186.6-4.9	">
+<title>AWS_Stockholm → Stockholm#0:10:
+1</title>
+	</path>
+	<path class="st1" d="M240.9,925.4c37.3,0,149.3-4.1,186.6-4.1	">
+<title>AWS_Sydney → Sydney#0:10:
+1</title>
+	</path>
+	<path class="st1" d="M240.9,609.2c37.3,0,149.3,3,186.6,3	">
+<title>AWS_Bahrain → Bahrain#0:10:
+1</title>
+	</path>
+	<path class="st1" d="M240.9,835.1c37.3,0,149.3-4.1,186.6-4.1	">
+<title>AWS_Beijing → Beijing#0:10:
+1</title>
+	</path>
+	<path class="st1" d="M240.9,880.2c37.3,0,149.3-4.1,186.6-4.1	">
+<title>AWS_Ningxia → Ningxia#0:10:
+1</title>
+	</path>
+	<path class="st1" d="M437.5,256c37.3,0,149.3-8.8,186.6-8.8	">
+<title>Portland#0:10 → Portland#0:20:
+1</title>
+	</path>
+	<path class="st1" d="M437.5,80.3c37.3,0,149.3,31,186.6,31	">
+<title>Los Angeles#0:10 → Portland#0:20:
+1</title>
+	</path>
+	<path class="st3" d="M437.5,107.5c37.3,0,149.3,31,186.6,31	">
+<title>Los Angeles#0:10 → Portland#0:20:
+1</title>
+	</path>
+	<path class="st1" d="M437.5,134.7c37.3,0,149.3,31,186.6,31	">
+<title>Los Angeles#0:10 → Portland#0:20:
+1</title>
+	</path>
+	<path class="st1" d="M437.5,301.2c37.3,0,149.3-26.8,186.6-26.8	">
+<title>Montreal#0:10 → Portland#0:20:
+1</title>
+	</path>
+	<path class="st1" d="M437.5,161.9c37.3,0,149.3,31,186.6,31	">
+<title>Los Angeles#0:10 → Portland#0:20:
+1</title>
+	</path>
+	<path class="st3" d="M437.5,189.1c37.3,0,149.3,31,186.6,31	">
+<title>Los Angeles#0:10 → Portland#0:20:
+1</title>
+	</path>
+	<path class="st1" d="M437.5,370.8c37.3,0,149.3,10,186.6,10	">
+<title>Paris#0:10 → Paris#0:20:
+1</title>
+	</path>
+	<path class="st2" d="M437.5,513.9c37.3,0,149.3-24.4,186.6-24.4	">
+<title>Stockholm#0:10 → Paris#0:20:
+1</title>
+	</path>
+	<path class="st1" d="M437.5,398c37.3,0,149.3,10,186.6,10	">
+<title>Paris#0:10 → Paris#0:20:
+1</title>
+	</path>
+	<path class="st2" d="M437.5,425.2c37.3,0,149.3,10,186.6,10	">
+<title>Paris#0:10 → Paris#0:20:
+1</title>
+	</path>
+	<path class="st1" d="M437.5,452.4c37.3,0,149.3,10,186.6,10	">
+<title>Paris#0:10 → Paris#0:20:
+1</title>
+	</path>
+	<path class="st2" d="M437.5,708c37.3,0,149.3,0.9,186.6,0.9	">
+<title>Osaka#0:10 → Osaka#0:20:
+1</title>
+	</path>
+	<path class="st2" d="M437.5,735.2c37.3,0,149.3,0.9,186.6,0.9	">
+<title>Osaka#0:10 → Osaka#0:20:
+1</title>
+	</path>
+	<path class="st1" d="M437.5,567c37.3,0,149.3,3,186.6,3	">
+<title>Mumbai#0:10 → Mumbai#0:20:
+1</title>
+	</path>
+	<path class="st1" d="M437.5,966.5c37.3,0,149.3-1.3,186.6-1.3	">
+<title>Sao Paulo#0:10 → Sao Paulo#0:20:
+1</title>
+	</path>
+	<path class="st1" d="M437.5,785.8c37.3,0,149.3-1.3,186.6-1.3	">
+<title>Seoul#0:10 → Seoul#0:20:
+1</title>
+	</path>
+	<path class="st1" d="M437.5,657.3c37.3,0,149.3,3,186.6,3	">
+<title>Singapore#0:10 → Singapore#0:20:
+1</title>
+	</path>
+	<path class="st1" d="M437.5,921.3c37.3,0,149.3-1.3,186.6-1.3	">
+<title>Sydney#0:10 → Sydney#0:20:
+1</title>
+	</path>
+	<path class="st1" d="M437.5,612.2c37.3,0,149.3,3,186.6,3	">
+<title>Bahrain#0:10 → Bahrain#0:20:
+1</title>
+	</path>
+	<path class="st1" d="M437.5,831c37.3,0,149.3-1.3,186.6-1.3	">
+<title>Beijing#0:10 → Beijing#0:20:
+1</title>
+	</path>
+	<path class="st1" d="M437.5,876.1c37.3,0,149.3-1.3,186.6-1.3	">
+<title>Ningxia#0:10 → Ningxia#0:20:
+1</title>
+	</path>
+	<path class="st1" d="M634.1,111.4c37.3,0,149.3,17.1,186.6,17.1	">
+<title>Portland#0:20 → Portland#0:30:
+1</title>
+	</path>
+	<path class="st3" d="M634.1,138.5c37.3,0,149.3,17.1,186.6,17.1	">
+<title>Portland#0:20 → Portland#0:30:
+1</title>
+	</path>
+	<path class="st1" d="M634.1,165.7c37.3,0,149.3,17.1,186.6,17.1	">
+<title>Portland#0:20 → Portland#0:30:
+1</title>
+	</path>
+	<path class="st1" d="M634.1,192.9c37.3,0,149.3,17.1,186.6,17.1	">
+<title>Portland#0:20 → Portland#0:30:
+1</title>
+	</path>
+	<path class="st3" d="M634.1,220.1c37.3,0,149.3,17.1,186.6,17.1	">
+<title>Portland#0:20 → Portland#0:30:
+1</title>
+	</path>
+	<path class="st1" d="M634.1,247.3c37.3,0,149.3,17.1,186.6,17.1	">
+<title>Portland#0:20 → Portland#0:30:
+1</title>
+	</path>
+	<path class="st1" d="M634.1,274.5c37.3,0,149.3,17.1,186.6,17.1	">
+<title>Portland#0:20 → Portland#0:30:
+1</title>
+	</path>
+	<path class="st1" d="M634.1,380.8c37.3,0,149.3,3.1,186.6,3.1	">
+<title>Paris#0:20 → Paris#0:30:
+1</title>
+	</path>
+	<path class="st4" d="M634.1,408c37.3,0,149.3,3.1,186.6,3.1	">
+<title>Paris#0:20 → Paris#0:30:
+1</title>
+	</path>
+	<path class="st1" d="M634.1,435.2c37.3,0,149.3,3.1,186.6,3.1	">
+<title>Paris#0:20 → Paris#0:30:
+1</title>
+	</path>
+	<path class="st1" d="M634.1,462.3c37.3,0,149.3,3.1,186.6,3.1	">
+<title>Paris#0:20 → Paris#0:30:
+1</title>
+	</path>
+	<path class="st4" d="M634.1,489.5c37.3,0,149.3,3.1,186.6,3.1	">
+<title>Paris#0:20 → Paris#0:30:
+1</title>
+	</path>
+	<path class="st4" d="M634.1,784.5c37.3,0,149.3-22.3,186.6-22.3	">
+<title>Seoul#0:20 → Seoul#0:30:
+1</title>
+	</path>
+	<path class="st1" d="M634.1,708.9c37.3,0,149.3-1,186.6-1	">
+<title>Osaka#0:20 → Seoul#0:30:
+1</title>
+	</path>
+	<path class="st4" d="M634.1,736c37.3,0,149.3-1,186.6-1	">
+<title>Osaka#0:20 → Seoul#0:30:
+1</title>
+	</path>
+	<path class="st2" d="M634.1,570c37.3,0,149.3,8.5,186.6,8.5	">
+<title>Mumbai#0:20 → Mumbai#0:30:
+1</title>
+	</path>
+	<path class="st2" d="M634.1,615.2c37.3,0,149.3-9.5,186.6-9.5	">
+<title>Bahrain#0:20 → Mumbai#0:30:
+1</title>
+	</path>
+	<path class="st1" d="M634.1,965.2c37.3,0,149.3-12.5,186.6-12.5	">
+<title>Sao Paulo#0:20 → Sao Paulo#0:30:
+1</title>
+	</path>
+	<path class="st1" d="M634.1,660.4c37.3,0,149.3-4,186.6-4	">
+<title>Singapore#0:20 → Singapore#0:30:
+1</title>
+	</path>
+	<path class="st1" d="M634.1,920.1c37.3,0,149.3-12.5,186.6-12.5	">
+<title>Sydney#0:20 → Sydney#0:30:
+1</title>
+	</path>
+	<path class="st1" d="M634.1,829.7c37.3,0,149.3-12.5,186.6-12.5	">
+<title>Beijing#0:20 → Beijing#0:30:
+1</title>
+	</path>
+	<path class="st1" d="M634.1,874.9c37.3,0,149.3-12.5,186.6-12.5	">
+<title>Ningxia#0:20 → Ningxia#0:30:
+1</title>
+	</path>
+	<path class="st1" d="M830.7,128.5c37.3,0,149.3,17.2,186.6,17.2	">
+<title>Portland#0:30 → Portland#0:40:
+1</title>
+	</path>
+	<path class="st3" d="M830.7,155.7c37.3,0,149.3,17.2,186.6,17.2	">
+<title>Portland#0:30 → Portland#0:40:
+1</title>
+	</path>
+	<path class="st1" d="M830.7,182.9c37.3,0,149.3,17.2,186.6,17.2	">
+<title>Portland#0:30 → Portland#0:40:
+1</title>
+	</path>
+	<path class="st1" d="M830.7,210c37.3,0,149.3,17.2,186.6,17.2	">
+<title>Portland#0:30 → Portland#0:40:
+1</title>
+	</path>
+	<path class="st3" d="M830.7,237.2c37.3,0,149.3,17.2,186.6,17.2	">
+<title>Portland#0:30 → Portland#0:40:
+1</title>
+	</path>
+	<path class="st1" d="M830.7,264.4c37.3,0,149.3,17.2,186.6,17.2	">
+<title>Portland#0:30 → Portland#0:40:
+1</title>
+	</path>
+	<path class="st1" d="M830.7,291.6c37.3,0,149.3,17.2,186.6,17.2	">
+<title>Portland#0:30 → Portland#0:40:
+1</title>
+	</path>
+	<path class="st1" d="M830.7,383.9c37.3,0,149.3,3.1,186.6,3.1	">
+<title>Paris#0:30 → Paris#0:40:
+1</title>
+	</path>
+	<path class="st5" d="M830.7,411.1c37.3,0,149.3,3.1,186.6,3.1	">
+<title>Paris#0:30 → Paris#0:40:
+1</title>
+	</path>
+	<path class="st1" d="M830.7,438.3c37.3,0,149.3,3.1,186.6,3.1	">
+<title>Paris#0:30 → Paris#0:40:
+1</title>
+	</path>
+	<path class="st1" d="M830.7,465.4c37.3,0,149.3,3.1,186.6,3.1	">
+<title>Paris#0:30 → Paris#0:40:
+1</title>
+	</path>
+	<path class="st5" d="M830.7,492.6c37.3,0,149.3,3.1,186.6,3.1	">
+<title>Paris#0:30 → Paris#0:40:
+1</title>
+	</path>
+	<path class="st1" d="M830.7,707.8c37.3,0,149.3-5.1,186.6-5.1	">
+<title>Seoul#0:30 → Seoul#0:40:
+1</title>
+	</path>
+	<path class="st4" d="M830.7,735c37.3,0,149.3-5.1,186.6-5.1	">
+<title>Seoul#0:30 → Seoul#0:40:
+1</title>
+	</path>
+	<path class="st4" d="M830.7,762.2c37.3,0,149.3-5.1,186.6-5.1	">
+<title>Seoul#0:30 → Seoul#0:40:
+1</title>
+	</path>
+	<path class="st2" d="M830.7,578.5c37.3,0,149.3-0.4,186.6-0.4	">
+<title>Mumbai#0:30 → Mumbai#0:40:
+1</title>
+	</path>
+	<path class="st2" d="M830.7,605.7c37.3,0,149.3-0.4,186.6-0.4	">
+<title>Mumbai#0:30 → Mumbai#0:40:
+1</title>
+	</path>
+	<path class="st1" d="M830.7,952.8c37.3,0,149.3-9,186.6-9	">
+<title>Sao Paulo#0:30 → Sao Paulo#0:40:
+1</title>
+	</path>
+	<path class="st1" d="M830.7,656.3c37.3,0,149.3-2.6,186.6-2.6	">
+<title>Singapore#0:30 → Singapore#0:40:
+1</title>
+	</path>
+	<path class="st1" d="M830.7,907.6c37.3,0,149.3-9,186.6-9	">
+<title>Sydney#0:30 → Sydney#0:40:
+1</title>
+	</path>
+	<path class="st1" d="M830.7,817.2c37.3,0,149.3-9,186.6-9	">
+<title>Beijing#0:30 → Beijing#0:40:
+1</title>
+	</path>
+	<path class="st1" d="M830.7,862.4c37.3,0,149.3-9,186.6-9	">
+<title>Ningxia#0:30 → Ningxia#0:40:
+1</title>
+	</path>
+	<path class="st6" d="M1027.3,145.7c37.3,0,149.3,17.3,186.6,17.3	">
+<title>Portland#0:40 → Portland#0:50:
+1</title>
+	</path>
+	<path class="st1" d="M1027.3,172.9c37.3,0,149.3,17.3,186.6,17.3	">
+<title>Portland#0:40 → Portland#0:50:
+1</title>
+	</path>
+	<path class="st6" d="M1027.3,200.1c37.3,0,149.3,17.3,186.6,17.3	">
+<title>Portland#0:40 → Portland#0:50:
+1</title>
+	</path>
+	<path class="st1" d="M1027.3,227.3c37.3,0,149.3,17.3,186.6,17.3	">
+<title>Portland#0:40 → Portland#0:50:
+1</title>
+	</path>
+	<path class="st1" d="M1027.3,255c37.3-0.2,149.4,16.3,186.7,16.1	">
+<title>Portland#0:40 → Portland#0:50:
+1</title>
+	</path>
+	<path class="st1" d="M1027.3,281.6c37.3,0,149.3,17.3,186.6,17.3	">
+<title>Portland#0:40 → Portland#0:50:
+1</title>
+	</path>
+	<path class="st1" d="M1027.3,308.8c37.3,0,149.3,17.3,186.6,17.3	">
+<title>Portland#0:40 → Portland#0:50:
+1</title>
+	</path>
+	<path class="st1" d="M1027.3,387c37.3,0,149.3,4.3,186.6,4.3	">
+<title>Paris#0:40 → Paris#0:50:
+1</title>
+	</path>
+	<path class="st5" d="M1027.3,414.2c37.3,0,149.3,4.3,186.6,4.3	">
+<title>Paris#0:40 → Paris#0:50:
+1</title>
+	</path>
+	<path class="st1" d="M1027.3,441.4c37.3,0,149.3,4.3,186.6,4.3	">
+<title>Paris#0:40 → Paris#0:50:
+1</title>
+	</path>
+	<path class="st1" d="M1027.3,468.6c37.3,0,149.3,4.3,186.6,4.3	">
+<title>Paris#0:40 → Paris#0:50:
+1</title>
+	</path>
+	<path class="st5" d="M1027.3,495.7c37.3,0,149.3,4.3,186.6,4.3	">
+<title>Paris#0:40 → Paris#0:50:
+1</title>
+	</path>
+	<path class="st2" d="M1027.3,578.1c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Mumbai#0:40 → Mumbai#0:50:
+1</title>
+	</path>
+	<path class="st1" d="M1027.3,605.3c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Mumbai#0:40 → Mumbai#0:50:
+1</title>
+	</path>
+	<path class="st2" d="M1027.3,653.8c37.3,0,149.3-17.4,186.6-17.4	">
+<title>Singapore#0:40 → Mumbai#0:50:
+1</title>
+	</path>
+	<path class="st1" d="M1027.3,702.7c37.3,0,149.3-10.3,186.6-10.3	">
+<title>Seoul#0:40 → Seoul#0:50:
+1</title>
+	</path>
+	<path class="st4" d="M1027.3,729.9c37.3,0,149.3-10.3,186.6-10.3	">
+<title>Seoul#0:40 → Seoul#0:50:
+1</title>
+	</path>
+	<path class="st4" d="M1027.3,757.1c37.3,0,149.3-10.3,186.6-10.3	">
+<title>Seoul#0:40 → Seoul#0:50:
+1</title>
+	</path>
+	<path class="st1" d="M1027.3,943.8c37.3,0,149.3-12.7,186.6-12.7	">
+<title>Sao Paulo#0:40 → Sao Paulo#0:50:
+1</title>
+	</path>
+	<path class="st1" d="M1027.3,898.6c37.3,0,149.3-12.7,186.6-12.7	">
+<title>Sydney#0:40 → Sydney#0:50:
+1</title>
+	</path>
+	<path class="st1" d="M1027.3,808.2c37.3,0,149.3-12.7,186.6-12.7	">
+<title>Beijing#0:40 → Beijing#0:50:
+1</title>
+	</path>
+	<path class="st1" d="M1027.3,853.4c37.3,0,149.3-12.7,186.6-12.7	">
+<title>Ningxia#0:40 → Ningxia#0:50:
+1</title>
+	</path>
+	<path class="st1" d="M1223.9,163c37.3,0,149.3,27,186.6,27	">
+<title>Portland#0:50 → Portland#0:60:
+1</title>
+	</path>
+	<path class="st1" d="M1223.9,391.3c37.3,0,149.3-11,186.6-11	">
+<title>Paris#0:50 → Portland#0:60:
+1</title>
+	</path>
+	<path class="st7" d="M1223.9,190.2c37.3,0,149.3,27,186.6,27	">
+<title>Portland#0:50 → Portland#0:60:
+1</title>
+	</path>
+	<path class="st1" d="M1223.9,217.4c37.3,0,149.3,27,186.6,27	">
+<title>Portland#0:50 → Portland#0:60:
+1</title>
+	</path>
+	<path class="st1" d="M1223.9,418.4c37.3,0,149.3-11,186.6-11	">
+<title>Paris#0:50 → Portland#0:60:
+1</title>
+	</path>
+	<path class="st1" d="M1223.9,244.6c37.3,0,149.3,27,186.6,27	">
+<title>Portland#0:50 → Portland#0:60:
+1</title>
+	</path>
+	<path class="st1" d="M1223.9,271.7c37.3,0,149.3,27,186.6,27	">
+<title>Portland#0:50 → Portland#0:60:
+1</title>
+	</path>
+	<path class="st1" d="M1223.9,445.6c37.3,0,149.3-11,186.6-11	">
+<title>Paris#0:50 → Portland#0:60:
+1</title>
+	</path>
+	<path class="st1" d="M1223.9,298.9c37.3,0,149.3,27,186.6,27	">
+<title>Portland#0:50 → Portland#0:60:
+1</title>
+	</path>
+	<path class="st7" d="M1223.9,472.8c37.3,0,149.3-11,186.6-11	">
+<title>Paris#0:50 → Portland#0:60:
+1</title>
+	</path>
+	<path class="st1" d="M1223.9,326.1c37.3,0,149.3,27,186.6,27	">
+<title>Portland#0:50 → Portland#0:60:
+1</title>
+	</path>
+	<path class="st1" d="M1223.9,500c37.3,0,149.3-11,186.6-11	">
+<title>Paris#0:50 → Portland#0:60:
+1</title>
+	</path>
+	<path class="st1" d="M1223.9,582c37.3,0,149.3,5.6,186.6,5.6	">
+<title>Mumbai#0:50 → Mumbai#0:60:
+1</title>
+	</path>
+	<path class="st1" d="M1223.9,609.2c37.3,0,149.3,5.6,186.6,5.6	">
+<title>Mumbai#0:50 → Mumbai#0:60:
+1</title>
+	</path>
+	<path class="st1" d="M1223.9,692.4c37.3,0,149.3-23.3,186.6-23.3	">
+<title>Seoul#0:50 → Mumbai#0:60:
+1</title>
+	</path>
+	<path class="st8" d="M1223.9,719.6c37.3,0,149.3-23.3,186.6-23.3	">
+<title>Seoul#0:50 → Mumbai#0:60:
+1</title>
+	</path>
+	<path class="st1" d="M1223.9,746.8c37.3,0,149.3-23.3,186.6-23.3	">
+<title>Seoul#0:50 → Mumbai#0:60:
+1</title>
+	</path>
+	<path class="st8" d="M1223.9,636.4c37.3,0,149.3,5.6,186.6,5.6	">
+<title>Mumbai#0:50 → Mumbai#0:60:
+1</title>
+	</path>
+	<path class="st1" d="M1223.9,931.1c37.3,0,149.3-16,186.6-16	">
+<title>Sao Paulo#0:50 → Sao Paulo#0:60:
+1</title>
+	</path>
+	<path class="st1" d="M1223.9,886c37.3,0,149.3-16,186.6-16	">
+<title>Sydney#0:50 → Sydney#0:60:
+1</title>
+	</path>
+	<path class="st1" d="M1223.9,795.6c37.3,0,149.3-16,186.6-16	">
+<title>Beijing#0:50 → Beijing#0:60:
+1</title>
+	</path>
+	<path class="st1" d="M1223.9,840.8c37.3,0,149.3-16,186.6-16	">
+<title>Ningxia#0:50 → Ningxia#0:60:
+1</title>
+	</path>
+	<path class="st1" d="M1420.5,190c37.3,0,149.3,11.3,186.6,11.3	">
+<title>Portland#0:60 → Portland#0:70:
+1</title>
+	</path>
+	<path class="st1" d="M1420.5,217.2c37.3,0,149.3,11.3,186.6,11.3	">
+<title>Portland#0:60 → Portland#0:70:
+1</title>
+	</path>
+	<path class="st1" d="M1420.5,244.4c37.3,0,149.3,11.3,186.6,11.3	">
+<title>Portland#0:60 → Portland#0:70:
+1</title>
+	</path>
+	<path class="st1" d="M1420.5,271.6c37.3,0,149.3,11.3,186.6,11.3	">
+<title>Portland#0:60 → Portland#0:70:
+1</title>
+	</path>
+	<path class="st1" d="M1420.5,298.7c37.3,0,149.3,11.3,186.6,11.3	">
+<title>Portland#0:60 → Portland#0:70:
+1</title>
+	</path>
+	<path class="st1" d="M1420.5,325.9c37.3,0,149.3,11.3,186.6,11.3	">
+<title>Portland#0:60 → Portland#0:70:
+1</title>
+	</path>
+	<path class="st3" d="M1420.5,353.1c37.3,0,149.3,11.3,186.6,11.3	">
+<title>Portland#0:60 → Portland#0:70:
+1</title>
+	</path>
+	<path class="st1" d="M1420.5,380.3c37.3,0,149.3,11.3,186.6,11.3	">
+<title>Portland#0:60 → Portland#0:70:
+1</title>
+	</path>
+	<path class="st1" d="M1420.5,407.5c37.3,0,149.3,11.3,186.6,11.3	">
+<title>Portland#0:60 → Portland#0:70:
+1</title>
+	</path>
+	<path class="st1" d="M1420.5,434.7c37.3,0,149.3,11.3,186.6,11.3	">
+<title>Portland#0:60 → Portland#0:70:
+1</title>
+	</path>
+	<path class="st3" d="M1420.5,461.8c37.3,0,149.3,11.3,186.6,11.3	">
+<title>Portland#0:60 → Portland#0:70:
+1</title>
+	</path>
+	<path class="st1" d="M1420.5,489c37.3,0,149.3,11.3,186.6,11.3	">
+<title>Portland#0:60 → Portland#0:70:
+1</title>
+	</path>
+	<path class="st1" d="M1420.5,587.6c37.3,0,149.3-8.8,186.6-8.8	">
+<title>Mumbai#0:60 → Mumbai#0:70:
+1</title>
+	</path>
+	<path class="st1" d="M1420.5,614.8c37.3,0,149.3-8.8,186.6-8.8	">
+<title>Mumbai#0:60 → Mumbai#0:70:
+1</title>
+	</path>
+	<path class="st2" d="M1420.5,642c37.3,0,149.3-8.8,186.6-8.8	">
+<title>Mumbai#0:60 → Mumbai#0:70:
+1</title>
+	</path>
+	<path class="st2" d="M1420.5,669.1c37.3,0,149.3-8.8,186.6-8.8	">
+<title>Mumbai#0:60 → Mumbai#0:70:
+1</title>
+	</path>
+	<path class="st1" d="M1420.5,696.3c37.3,0,149.3-8.8,186.6-8.8	">
+<title>Mumbai#0:60 → Mumbai#0:70:
+1</title>
+	</path>
+	<path class="st1" d="M1420.5,723.5c37.3,0,149.3-8.8,186.6-8.8	">
+<title>Mumbai#0:60 → Mumbai#0:70:
+1</title>
+	</path>
+	<path class="st1" d="M1420.5,915.2c37.3,0,149.3-13.2,186.6-13.2	">
+<title>Sao Paulo#0:60 → Sao Paulo#0:70:
+1</title>
+	</path>
+	<path class="st1" d="M1420.5,870c37.3,0,149.3-13.2,186.6-13.2	">
+<title>Sydney#0:60 → Sydney#0:70:
+1</title>
+	</path>
+	<path class="st1" d="M1420.5,779.6c37.3,0,149.3-13.2,186.6-13.2	">
+<title>Beijing#0:60 → Beijing#0:70:
+1</title>
+	</path>
+	<path class="st1" d="M1420.5,824.8c37.3,0,149.3-13.2,186.6-13.2	">
+<title>Ningxia#0:60 → Ningxia#0:70:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,201.3c37.3,0,149.3,25.8,186.6,25.8	">
+<title>Portland#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,578.8c37.3,0,149.3-25.4,186.6-25.4	">
+<title>Mumbai#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st9" d="M1617.1,228.5c37.3,0,149.3,25.8,186.6,25.8	">
+<title>Portland#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,605.9c37.3,0,149.3-25.4,186.6-25.4	">
+<title>Mumbai#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,255.7c37.3,0,149.3,25.8,186.6,25.8	">
+<title>Portland#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,282.8c37.3,0,149.3,25.8,186.6,25.8	">
+<title>Portland#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,633.1c37.3,0,149.3-25.4,186.6-25.4	">
+<title>Mumbai#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,310c37.3,0,149.3,25.8,186.6,25.8	">
+<title>Portland#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,766.5c37.3,0,149.3-50,186.6-50	">
+<title>Beijing#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,337.2c37.3,0,149.3,25.8,186.6,25.8	">
+<title>Portland#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,364.4c37.3,0,149.3,25.8,186.6,25.8	">
+<title>Portland#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,391.6c37.3,0,149.3,25.8,186.6,25.8	">
+<title>Portland#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,418.8c37.3,0,149.3,25.8,186.6,25.8	">
+<title>Portland#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,660.3c37.3,0,149.3-25.4,186.6-25.4	">
+<title>Mumbai#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st9" d="M1617.1,687.5c37.3,0,149.3-25.4,186.6-25.4	">
+<title>Mumbai#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,714.7c37.3,0,149.3-25.4,186.6-25.4	">
+<title>Mumbai#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,445.9c37.3,0,149.3,25.8,186.6,25.8	">
+<title>Portland#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,811.6c37.3,0,149.3-68,186.6-68	">
+<title>Ningxia#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,473.1c37.3,0,149.3,25.8,186.6,25.8	">
+<title>Portland#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,500.3c37.3,0,149.3,25.8,186.6,25.8	">
+<title>Portland#0:70 → Portland#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,902c37.3,0,149.3-21.5,186.6-21.5	">
+<title>Sao Paulo#0:70 → Sao Paulo#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1617.1,856.8c37.3,0,149.3-22.8,186.6-22.8	">
+<title>Sydney#0:70 → Sydney#0:80:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,227.1c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,254.3c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,281.5c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,308.7c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,834c37.3,0,149.3-59.3,186.6-59.3	">
+<title>Sydney#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,335.9c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,363.1c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,390.2c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st9" d="M1813.7,417.4c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,444.6c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,471.8c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,499c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,526.1c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st9" d="M1813.7,553.3c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,580.5c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,607.7c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,634.9c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,662.1c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,689.2c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,716.4c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,743.6c37.3,0,149.3,3.9,186.6,3.9	">
+<title>Portland#0:80 → Mumbai#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M1813.7,880.5c37.3,0,149.3-21.6,186.6-21.6	">
+<title>Sao Paulo#0:80 → Sao Paulo#0:90:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,231c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,258.2c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,285.4c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,312.5c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,339.7c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,366.9c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,394.1c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,421.3c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,448.5c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,475.6c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,502.8c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,859c37.3,0,149.3-54.7,186.6-54.7	">
+<title>Sao Paulo#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,530c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st3" d="M2010.3,557.2c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,584.4c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,611.5c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,638.7c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,665.9c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,693.1c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,720.3c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,747.5c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<path class="st1" d="M2010.3,774.6c37.3,0,149.3,2.5,186.6,2.5	">
+<title>Mumbai#0:90 → Mumbai#0:100:
+1</title>
+	</path>
+	<rect id="r0" x="230.9" y="8.2" shape-rendering="crispEdges" class="st10" width="10" height="27.2">
+	<title>AWS_Los Angeles:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 243.9313 30.0162)" class="st11 st12">AWS Los Angeles</text>
+	<rect id="r1" x="427.5" y="66.8" shape-rendering="crispEdges" class="st10" width="10" height="135.9">
+	<title>Los Angeles#0:10:
+5</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 510.5313 159.9298)" class="st11 st13">US</text>
+	<rect id="r2" x="230.9" y="53.4" shape-rendering="crispEdges" class="st10" width="10" height="27.2">
+	<title>AWS_Ashburn:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 243.9313 84.1981)" class="st11 st12">AWS Ashburn</text>
+	<rect id="r3" x="230.9" y="98.6" shape-rendering="crispEdges" class="st10" width="10" height="27.2">
+	<title>AWS_Columbus:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 246.9313 122.3798)" class="st11 st12">AWS Columbus</text>
+	<rect id="r4" x="230.9" y="143.7" shape-rendering="crispEdges" class="st10" width="10" height="27.2">
+	<title>AWS_Charlotte:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 245.9313 161.5618)" class="st11 st12">AWS Charlotte</text>
+	<rect id="r5" x="230.9" y="188.9" shape-rendering="crispEdges" class="st10" width="10" height="27.2">
+	<title>AWS_San Francisco:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 245.9313 206.7435)" class="st11 st12">AWS San Francisco</text>
+	<rect id="r6" x="230.9" y="324.5" shape-rendering="crispEdges" class="st14" width="10" height="27.2">
+	<title>AWS_Paris:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 245.9313 347.2891)" class="st11 st12">AWS Paris</text>
+	<rect id="r7" x="427.5" y="357.3" shape-rendering="crispEdges" class="st14" width="10" height="108.7">
+	<title>Paris#0:10:
+4</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 478.5313 415.8445)" class="st15"><tspan x="0" y="0" class="st11 st13">Western  </tspan><tspan x="0" y="28.8" class="st11 st13"> Europe</tspan></text>
+	<rect id="r8" x="230.9" y="369.7" shape-rendering="crispEdges" class="st14" width="10" height="27.2">
+	<title>AWS_London:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 245.9313 390.4708)" class="st11 st12">AWS London</text>
+	<rect id="r9" x="230.9" y="414.8" shape-rendering="crispEdges" class="st14" width="10" height="27.2">
+	<title>AWS_Frankfurt am Main:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 245.9313 432.6525)" class="st11 st12">AWS Frankfurt</text>
+	<rect id="r10" x="230.9" y="460" shape-rendering="crispEdges" class="st14" width="10" height="27.2">
+	<title>AWS_Dublin:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 249.1137 476.2432)" class="st11 st12">AWS Dublin</text>
+	<rect id="r11" x="230.9" y="685.9" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>AWS_Osaka:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 251.9313 708.7435)" class="st11 st12">AWS Osaka</text>
+	<rect id="r12" x="427.5" y="694.4" shape-rendering="crispEdges" class="st16" width="10" height="54.4">
+	<title>Osaka#0:10:
+2</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 488.5313 725.791)" class="st11 st13">Japan</text>
+	<rect id="r13" x="230.9" y="731.1" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>AWS_Tokyo:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 251.9313 752.4254)" class="st11 st12">AWS Tokyo</text>
+	<rect id="r14" x="230.9" y="234.1" shape-rendering="crispEdges" class="st10" width="10" height="27.2">
+	<title>AWS_Portland:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 245.9313 251.9254)" class="st11 st12">AWS Portland</text>
+	<rect id="r15" x="427.5" y="242.4" shape-rendering="crispEdges" class="st10" width="10" height="27.2">
+	<title>Portland#0:10:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 460.5313 260.2556)" class="st11 st13">North West</text>
+	<rect id="r16" x="230.9" y="279.3" shape-rendering="crispEdges" class="st10" width="10" height="27.2">
+	<title>AWS_Montreal:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 245.9313 297.1072)" class="st11 st12">AWS Montreal</text>
+	<rect id="r17" x="427.5" y="287.6" shape-rendering="crispEdges" class="st10" width="10" height="27.2">
+	<title>Montreal#0:10:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 475.0313 303.9374)" class="st11 st13">Canada</text>
+	<rect id="r18" x="230.9" y="550.4" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>AWS_Mumbai:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 245.9313 568.198)" class="st11 st12">AWS Mumbai</text>
+	<rect id="r19" x="427.5" y="553.4" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Mumbai#0:10:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 508.5313 574.2094)" class="st11 st13">India</text>
+	<rect id="r20" x="230.9" y="957" shape-rendering="crispEdges" class="st17" width="10" height="27.2">
+	<title>AWS_Sao Paulo:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 247.9307 975.2559)" class="st11 st12">AWS Sao Paulo</text>
+	<rect id="r21" x="427.5" y="952.9" shape-rendering="crispEdges" class="st17" width="10" height="27.2">
+	<title>Sao Paulo#0:10:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 483.5308 974.8877)" class="st11 st18">Brazil</text>
+	<rect id="r22" x="230.9" y="776.3" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>AWS_Seoul:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 251.9313 799.1071)" class="st11 st12">AWS Seoul</text>
+	<rect id="r23" x="427.5" y="772.2" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Seoul#0:10:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 488.5313 790.0087)" class="st11 st13">Korea</text>
+	<rect id="r24" x="230.9" y="640.7" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>AWS_Singapore:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 245.9313 658.5618)" class="st11 st12">AWS Singapore</text>
+	<rect id="r25" x="427.5" y="643.8" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Singapore#0:10:
+1</title>
+	</rect>
+	<rect id="r26" x="230.9" y="505.2" shape-rendering="crispEdges" class="st14" width="10" height="27.2">
+	<title>AWS_Stockholm:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 245.9313 523.0162)" class="st11 st12">AWS Stockholm</text>
+	<rect id="r27" x="427.5" y="500.3" shape-rendering="crispEdges" class="st14" width="10" height="27.2">
+	<title>Stockholm#0:10:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 443.5313 518.1342)" class="st11 st13">Northern Europe</text>
+	<rect id="r28" x="230.9" y="911.8" shape-rendering="crispEdges" class="st19" width="10" height="27.2">
+	<title>AWS_Sydney:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 251.9321 932.9248)" class="st11 st20">AWS Sydney</text>
+	<rect id="r29" x="427.5" y="907.7" shape-rendering="crispEdges" class="st19" width="10" height="27.2">
+	<title>Sydney#0:10:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 468.5312 929.9209)" class="st11 st21">Australia</text>
+	<rect id="r30" x="230.9" y="595.6" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>AWS_Bahrain:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 245.9313 613.3798)" class="st11 st12">AWS Bahrain</text>
+	<rect id="r31" x="427.5" y="598.6" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Bahrain#0:10:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 458.5313 616.3914)" class="st11 st13">Middle East</text>
+	<rect id="r32" x="230.9" y="821.5" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>AWS_Beijing:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 251.9313 844.2889)" class="st11 st12">AWS Beijing</text>
+	<rect id="r33" x="427.5" y="817.4" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Beijing#0:10:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 488.5313 835.1904)" class="st11 st13">China</text>
+	<rect id="r34" x="230.9" y="866.7" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>AWS_Ningxia:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 251.9313 889.4708)" class="st11 st12">AWS Ningxia</text>
+	<rect id="r35" x="427.5" y="862.6" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Ningxia#0:10:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 485.5313 880.3723)" class="st11 st13">China</text>
+	<rect id="r36" x="624.1" y="97.8" shape-rendering="crispEdges" class="st10" width="10" height="190.3">
+	<title>Portland#0:20:
+7</title>
+	</rect>
+	<rect id="r37" x="624.1" y="367.2" shape-rendering="crispEdges" class="st14" width="10" height="135.9">
+	<title>Paris#0:20:
+5</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 680.6313 444.3865)" class="st11 st13">Europe</text>
+	<rect id="r38" x="624.1" y="695.3" shape-rendering="crispEdges" class="st16" width="10" height="54.4">
+	<title>Osaka#0:20:
+2</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 640.1313 726.6716)" class="st11 st22">Japan</text>
+	<rect id="r39" x="624.1" y="556.4" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Mumbai#0:20:
+1</title>
+	</rect>
+	<rect id="r40" x="624.1" y="951.6" shape-rendering="crispEdges" class="st17" width="10" height="27.2">
+	<title>Sao Paulo#0:20:
+1</title>
+	</rect>
+	<rect id="r41" x="624.1" y="770.9" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Seoul#0:20:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 640.1313 788.7385)" class="st11 st22">Korea</text>
+	<rect id="r42" x="624.1" y="646.8" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Singapore#0:20:
+1</title>
+	</rect>
+	<rect id="r43" x="624.1" y="906.5" shape-rendering="crispEdges" class="st19" width="10" height="27.2">
+	<title>Sydney#0:20:
+1</title>
+	</rect>
+	<rect id="r44" x="624.1" y="601.6" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Bahrain#0:20:
+1</title>
+	</rect>
+	<rect id="r45" x="624.1" y="816.1" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Beijing#0:20:
+1</title>
+	</rect>
+	<rect id="r46" x="624.1" y="861.3" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Ningxia#0:20:
+1</title>
+	</rect>
+	<rect id="r47" x="820.7" y="114.9" shape-rendering="crispEdges" class="st10" width="10" height="190.3">
+	<title>Portland#0:30:
+7</title>
+	</rect>
+	<rect id="r48" x="820.7" y="370.3" shape-rendering="crispEdges" class="st14" width="10" height="135.9">
+	<title>Paris#0:30:
+5</title>
+	</rect>
+	<rect id="r49" x="820.7" y="694.2" shape-rendering="crispEdges" class="st16" width="10" height="81.5">
+	<title>Seoul#0:30:
+3</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 851.7313 740.2169)" class="st11 st13">Eastern Asia</text>
+	<rect id="r50" x="820.7" y="564.9" shape-rendering="crispEdges" class="st16" width="10" height="54.4">
+	<title>Mumbai#0:30:
+2</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 836.7313 586.3481)" class="st15"><tspan x="0" y="0" class="st11 st13">South Western </tspan><tspan x="0" y="28.8" class="st11 st13 st23">	</tspan><tspan x="36" y="28.8" class="st11 st13">   Asia</tspan></text>
+	<rect id="r51" x="820.7" y="939.2" shape-rendering="crispEdges" class="st17" width="10" height="27.2">
+	<title>Sao Paulo#0:30:
+1</title>
+	</rect>
+	<rect id="r52" x="820.7" y="642.7" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Singapore#0:30:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 652.7313 652.5659)" class="st15"><tspan x="0" y="0" class="st11 st13">South Eastern </tspan><tspan x="0" y="28.8" class="st11 st13 st23">	</tspan><tspan x="36" y="28.8" class="st11 st13">   Asia</tspan></text>
+	<rect id="r53" x="820.7" y="894" shape-rendering="crispEdges" class="st19" width="10" height="27.2">
+	<title>Sydney#0:30:
+1</title>
+	</rect>
+	<rect id="r54" x="820.7" y="803.6" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Beijing#0:30:
+1</title>
+	</rect>
+	<rect id="r55" x="820.7" y="848.8" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Ningxia#0:30:
+1</title>
+	</rect>
+	<rect id="r56" x="1017.3" y="132.1" shape-rendering="crispEdges" class="st10" width="10" height="190.3">
+	<title>Portland#0:40:
+7</title>
+	</rect>
+	<rect id="r57" x="1017.3" y="373.4" shape-rendering="crispEdges" class="st14" width="10" height="135.9">
+	<title>Paris#0:40:
+5</title>
+	</rect>
+	<rect id="r58" x="1017.3" y="689.1" shape-rendering="crispEdges" class="st16" width="10" height="81.5">
+	<title>Seoul#0:40:
+3</title>
+	</rect>
+	<rect id="r59" x="1017.3" y="564.5" shape-rendering="crispEdges" class="st16" width="10" height="54.4">
+	<title>Mumbai#0:40:
+2</title>
+	</rect>
+	<rect id="r60" x="1017.3" y="930.2" shape-rendering="crispEdges" class="st17" width="10" height="27.2">
+	<title>Sao Paulo#0:40:
+1</title>
+	</rect>
+	<rect id="r61" x="1017.3" y="640.2" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Singapore#0:40:
+1</title>
+	</rect>
+	<rect id="r62" x="1017.3" y="885" shape-rendering="crispEdges" class="st19" width="10" height="27.2">
+	<title>Sydney#0:40:
+1</title>
+	</rect>
+	<rect id="r63" x="1017.3" y="794.7" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Beijing#0:40:
+1</title>
+	</rect>
+	<rect id="r64" x="1017.3" y="839.8" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Ningxia#0:40:
+1</title>
+	</rect>
+	<rect id="r65" x="1213.9" y="149.4" shape-rendering="crispEdges" class="st10" width="10" height="190.3">
+	<title>Portland#0:50:
+7</title>
+	</rect>
+	<rect id="r66" x="1213.9" y="377.7" shape-rendering="crispEdges" class="st14" width="10" height="135.9">
+	<title>Paris#0:50:
+5</title>
+	</rect>
+	<rect id="r67" x="1213.9" y="568.4" shape-rendering="crispEdges" class="st16" width="10" height="81.5">
+	<title>Mumbai#0:50:
+3</title>
+	</rect>
+	<rect id="r68" x="1213.9" y="678.8" shape-rendering="crispEdges" class="st16" width="10" height="81.5">
+	<title>Seoul#0:50:
+3</title>
+	</rect>
+	<rect id="r69" x="1213.9" y="917.5" shape-rendering="crispEdges" class="st17" width="10" height="27.2">
+	<title>Sao Paulo#0:50:
+1</title>
+	</rect>
+	<rect id="r70" x="1213.9" y="872.4" shape-rendering="crispEdges" class="st19" width="10" height="27.2">
+	<title>Sydney#0:50:
+1</title>
+	</rect>
+	<rect id="r71" x="1213.9" y="782" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Beijing#0:50:
+1</title>
+	</rect>
+	<rect id="r72" x="1213.9" y="827.2" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Ningxia#0:50:
+1</title>
+	</rect>
+	<rect id="r73" x="1410.5" y="176.4" shape-rendering="crispEdges" class="st24" width="10" height="326.2">
+	<title>Portland#0:60:
+12</title>
+	</rect>
+	<rect id="r74" x="1410.5" y="574" shape-rendering="crispEdges" class="st16" width="10" height="163.1">
+	<title>Mumbai#0:60:
+6</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 1254.2803 619.1013)" class="st11 st13">South  Asia</text>
+	<rect id="r75" x="1410.5" y="901.6" shape-rendering="crispEdges" class="st17" width="10" height="27.2">
+	<title>Sao Paulo#0:60:
+1</title>
+	</rect>
+	<rect id="r76" x="1410.5" y="856.4" shape-rendering="crispEdges" class="st19" width="10" height="27.2">
+	<title>Sydney#0:60:
+1</title>
+	</rect>
+	<rect id="r77" x="1410.5" y="766" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Beijing#0:60:
+1</title>
+	</rect>
+	<rect id="r78" x="1410.5" y="811.2" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Ningxia#0:60:
+1</title>
+	</rect>
+	<rect id="r79" x="1607.1" y="187.7" shape-rendering="crispEdges" class="st24" width="10" height="326.2">
+	<title>Portland#0:70:
+12</title>
+	</rect>
+	<rect id="r80" x="1607.1" y="565.2" shape-rendering="crispEdges" class="st16" width="10" height="163.1">
+	<title>Mumbai#0:70:
+6</title>
+	</rect>
+	<rect id="r81" x="1607.1" y="888.4" shape-rendering="crispEdges" class="st17" width="10" height="27.2">
+	<title>Sao Paulo#0:70:
+1</title>
+	</rect>
+	<rect id="r82" x="1607.1" y="843.2" shape-rendering="crispEdges" class="st19" width="10" height="27.2">
+	<title>Sydney#0:70:
+1</title>
+	</rect>
+	<rect id="r83" x="1607.1" y="752.9" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Beijing#0:70:
+1</title>
+	</rect>
+	<rect id="r84" x="1607.1" y="798" shape-rendering="crispEdges" class="st16" width="10" height="27.2">
+	<title>Ningxia#0:70:
+1</title>
+	</rect>
+	<rect id="r85" x="1803.7" y="213.6" shape-rendering="crispEdges" class="st24" width="10" height="543.6">
+	<title>Portland#0:80:
+20</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 1456.0254 339.7666)" class="st15"><tspan x="0" y="0" class="st11 st25">Western </tspan><tspan x="0" y="40.7" class="st11 st25">  World</tspan></text>
+	<rect id="r86" x="1803.7" y="866.9" shape-rendering="crispEdges" class="st17" width="10" height="27.2">
+	<title>Sao Paulo#0:80:
+1</title>
+	</rect>
+	<rect id="r87" x="1803.7" y="820.4" shape-rendering="crispEdges" class="st19" width="10" height="27.2">
+	<title>Sydney#0:80:
+1</title>
+	</rect>
+	<rect id="r88" x="2000.3" y="217.4" shape-rendering="crispEdges" class="st24" width="10" height="570.8">
+	<title>Mumbai#0:90:
+21</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 1841.999 511.5518)" class="st11 st26">Eurasia</text>
+	<rect id="r89" x="2000.3" y="845.4" shape-rendering="crispEdges" class="st17" width="10" height="27.2">
+	<title>Sao Paulo#0:90:
+1</title>
+	</rect>
+	<rect id="r90" x="2196.9" y="219.9" shape-rendering="crispEdges" class="st24" width="10" height="598">
+	<title>Mumbai#0:100:
+22</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 2018 536.8408)" class="st11" style="font-size:36px;">Worldwide</text>
+	<rect id="r66_1_" x="1410.4" y="333.9" shape-rendering="crispEdges" class="st14" width="10" height="169.6">
+	<title>Paris#0:50:
+5</title>
+	</rect>
+	<rect id="r65_1_" x="1410.6" y="176.8" shape-rendering="crispEdges" class="st10" width="10" height="190.3">
+	<title>Portland#0:50:
+7</title>
+	</rect>
+	<rect id="r66_2_" x="1607.4" y="345.1" shape-rendering="crispEdges" class="st14" width="10" height="169.6">
+	<title>Paris#0:50:
+5</title>
+	</rect>
+	<rect id="r65_2_" x="1607.4" y="186.5" shape-rendering="crispEdges" class="st10" width="10" height="190.3">
+	<title>Portland#0:50:
+7</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 1486.5795 661.7349)" class="st11 st27">Asia</text>
+	<g>
+		<rect x="-217.4" y="106" class="st10" width="121.9" height="87"/>
+		<rect x="-217.4" y="248.5" class="st14" width="121.9" height="87"/>
+		<rect x="-217.4" y="383.8" class="st16" width="121.9" height="87"/>
+		<rect x="-217.4" y="521.9" class="st17" width="121.9" height="87"/>
+		<rect x="-217.4" y="678.6" class="st19" width="121.9" height="87"/>
+	</g>
+	<rect id="r66_3_" x="1804" y="373.7" shape-rendering="crispEdges" class="st14" width="10" height="169.6">
+	<title>Paris#0:50:
+5</title>
+	</rect>
+	<rect id="r65_3_" x="1804.1" y="215.5" shape-rendering="crispEdges" class="st10" width="10" height="190.3">
+	<title>Portland#0:50:
+7</title>
+	</rect>
+	<rect id="r80_1_" x="1804" y="543.6" shape-rendering="crispEdges" class="st16" width="10" height="212.6">
+	<title>Mumbai#0:70:
+6</title>
+	</rect>
+	<rect id="r66_4_" x="2000.3" y="376.7" shape-rendering="crispEdges" class="st14" width="10" height="169.6">
+	<title>Paris#0:50:
+5</title>
+	</rect>
+	<rect id="r65_4_" x="2000.1" y="218.3" shape-rendering="crispEdges" class="st10" width="10" height="190.3">
+	<title>Portland#0:50:
+7</title>
+	</rect>
+	<rect id="r80_2_" x="2000.3" y="546.3" shape-rendering="crispEdges" class="st16" width="10" height="212.6">
+	<title>Mumbai#0:70:
+6</title>
+	</rect>
+	<rect id="r87_1_" x="2000.3" y="759" shape-rendering="crispEdges" class="st19" width="10" height="27.2">
+	<title>Sydney#0:80:
+1</title>
+	</rect>
+	<rect id="r89_1_" x="2197.3" y="794.5" shape-rendering="crispEdges" class="st17" width="10" height="27.2">
+	<title>Sao Paulo#0:90:
+1</title>
+	</rect>
+	<rect id="r66_5_" x="2197.3" y="381.7" shape-rendering="crispEdges" class="st14" width="10" height="169.6">
+	<title>Paris#0:50:
+5</title>
+	</rect>
+	<rect id="r65_5_" x="2197.2" y="223.3" shape-rendering="crispEdges" class="st10" width="10" height="190.3">
+	<title>Portland#0:50:
+7</title>
+	</rect>
+	<rect id="r80_3_" x="2197.3" y="551.3" shape-rendering="crispEdges" class="st16" width="10" height="212.6">
+	<title>Mumbai#0:70:
+6</title>
+	</rect>
+	<rect id="r87_2_" x="2197.4" y="764" shape-rendering="crispEdges" class="st19" width="10" height="27.2">
+	<title>Sydney#0:80:
+1</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 647.2785 209.5518)" class="st11 st13">North America</text>
+	<text transform="matrix(1 0 0 1 -82 156.4932)" class="st11 st28">North America </text>
+	<text transform="matrix(1 0 0 1 -71.8556 303.1415)" class="st11 st28">Europe</text>
+	<text transform="matrix(1 0 0 1 -76.8556 448.1415)" class="st11 st28">Asia</text>
+	<text transform="matrix(1 0 0 1 -76.8556 591.1415)" class="st11 st28">Latin America</text>
+	<text transform="matrix(1 0 0 1 -79.8556 743.1415)" class="st11 st28">North America </text>
+	<text transform="matrix(1 0 0 1 469.283 661.2216)" class="st11 st13">Singapore </text>
+</g>
+</svg>

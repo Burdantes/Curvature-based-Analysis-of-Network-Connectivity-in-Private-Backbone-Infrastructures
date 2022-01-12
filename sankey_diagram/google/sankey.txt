@@ -1,0 +1,217 @@
+Google Amsterdam [1] Amsterdam:10
+Google Frankfurt [1] Amsterdam:10
+Google London [1] Amsterdam:10
+Google Belgium [1] Amsterdam:10
+Google Hong Kong [1] Hong Kong:10
+Google Taiwan [1] Hong Kong:10
+Google Helsinki [1] Helsinki:10
+Google Kane [1] Kane:10
+Google Los Angeles [1] Los Angeles:10
+Google Montreal [1] Montreal:10
+Google Mumbai [1] Mumbai:10
+Google Ashburn [1] Ashburn:10
+Google Sao Paulo [1] Sao Paulo:10
+Google Sydney [1] Sydney:10
+Google Tokyo [1] Tokyo:10
+Google Oregon [1] Oregon:10
+Google Osaka [1] Osaka:10
+Google Singapore [1] Singapore:10
+Google Charleston [1] Charleston:10
+Google Zurich [1] Zurich:10
+Amsterdam:10 [1] Frankfurt:20
+Amsterdam:10 [1] Frankfurt:20
+Zurich:10 [1] Frankfurt:20
+Amsterdam:10 [1] Frankfurt:20
+Amsterdam:10 [1] Frankfurt:20
+Montreal:10 [1] Montreal:20
+Charleston:10 [1] Montreal:20
+Ashburn:10 [1] Montreal:20
+Hong Kong:10 [1] Hong Kong:20
+Hong Kong:10 [1] Hong Kong:20
+Helsinki:10 [1] Helsinki:20
+Kane:10 [1] Kane:20
+Los Angeles:10 [1] Los Angeles:20
+Mumbai:10 [1] Mumbai:20
+Sao Paulo:10 [1] Sao Paulo:20
+Sydney:10 [1] Sydney:20
+Tokyo:10 [1] Tokyo:20
+Oregon:10 [1] Oregon:20
+Osaka:10 [1] Osaka:20
+Singapore:10 [1] Singapore:20
+Helsinki:20 [1] Helsinki:30
+Frankfurt:20 [1] Helsinki:30
+Frankfurt:20 [1] Helsinki:30
+Frankfurt:20 [1] Helsinki:30
+Frankfurt:20 [1] Helsinki:30
+Frankfurt:20 [1] Helsinki:30
+Los Angeles:20 [1] Los Angeles:30
+Montreal:20 [1] Los Angeles:30
+Montreal:20 [1] Los Angeles:30
+Kane:20 [1] Los Angeles:30
+Montreal:20 [1] Los Angeles:30
+Singapore:20 [1] Singapore:30
+Hong Kong:20 [1] Singapore:30
+Hong Kong:20 [1] Singapore:30
+Mumbai:20 [1] Mumbai:30
+Sao Paulo:20 [1] Sao Paulo:30
+Sydney:20 [1] Sydney:30
+Tokyo:20 [1] Tokyo:30
+Helsinki:30 [1] Helsinki:40
+Helsinki:30 [1] Helsinki:40
+Helsinki:30 [1] Helsinki:40
+Helsinki:30 [1] Helsinki:40
+Helsinki:30 [1] Helsinki:40
+Helsinki:30 [1] Helsinki:40
+Los Angeles:30 [1] Los Angeles:40
+Los Angeles:30 [1] Los Angeles:40
+Los Angeles:30 [1] Los Angeles:40
+Los Angeles:30 [1] Los Angeles:40
+Los Angeles:30 [1] Los Angeles:40
+Singapore:30 [1] Singapore:40
+Singapore:30 [1] Singapore:40
+Osaka:20 [1] Singapore:40
+Singapore:30 [1] Singapore:40
+Mumbai:30 [1] Mumbai:40
+Sao Paulo:30 [1] Sao Paulo:40
+Sydney:30 [1] Sydney:40
+Tokyo:30 [1] Tokyo:40
+Helsinki:40 [1] Helsinki:50
+Helsinki:40 [1] Helsinki:50
+Helsinki:40 [1] Helsinki:50
+Helsinki:40 [1] Helsinki:50
+Helsinki:40 [1] Helsinki:50
+Helsinki:40 [1] Helsinki:50
+Los Angeles:40 [1] Los Angeles:50
+Los Angeles:40 [1] Los Angeles:50
+Oregon:20 [1] Los Angeles:50
+Los Angeles:40 [1] Los Angeles:50
+Los Angeles:40 [1] Los Angeles:50
+Los Angeles:40 [1] Los Angeles:50
+Singapore:40 [1] Singapore:50
+Singapore:40 [1] Singapore:50
+Singapore:40 [1] Singapore:50
+Singapore:40 [1] Singapore:50
+Mumbai:40 [1] Mumbai:50
+Sao Paulo:40 [1] Sao Paulo:50
+Sydney:40 [1] Sydney:50
+Tokyo:40 [1] Tokyo:50
+Los Angeles:50 [1] Los Angeles:60
+Helsinki:50 [1] Los Angeles:60
+Helsinki:50 [1] Los Angeles:60
+Los Angeles:50 [1] Los Angeles:60
+Helsinki:50 [1] Los Angeles:60
+Helsinki:50 [1] Los Angeles:60
+Los Angeles:50 [1] Los Angeles:60
+Helsinki:50 [1] Los Angeles:60
+Los Angeles:50 [1] Los Angeles:60
+Los Angeles:50 [1] Los Angeles:60
+Helsinki:50 [1] Los Angeles:60
+Los Angeles:50 [1] Los Angeles:60
+Singapore:50 [1] Singapore:60
+Singapore:50 [1] Singapore:60
+Singapore:50 [1] Singapore:60
+Singapore:50 [1] Singapore:60
+Mumbai:50 [1] Mumbai:60
+Sao Paulo:50 [1] Sao Paulo:60
+Sydney:50 [1] Sydney:60
+Tokyo:50 [1] Tokyo:60
+Los Angeles:60 [1] Los Angeles:70
+Los Angeles:60 [1] Los Angeles:70
+Los Angeles:60 [1] Los Angeles:70
+Los Angeles:60 [1] Los Angeles:70
+Los Angeles:60 [1] Los Angeles:70
+Los Angeles:60 [1] Los Angeles:70
+Los Angeles:60 [1] Los Angeles:70
+Los Angeles:60 [1] Los Angeles:70
+Los Angeles:60 [1] Los Angeles:70
+Los Angeles:60 [1] Los Angeles:70
+Los Angeles:60 [1] Los Angeles:70
+Los Angeles:60 [1] Los Angeles:70
+Singapore:60 [1] Singapore:70
+Singapore:60 [1] Singapore:70
+Singapore:60 [1] Singapore:70
+Singapore:60 [1] Singapore:70
+Mumbai:60 [1] Mumbai:70
+Sao Paulo:60 [1] Sao Paulo:70
+Sydney:60 [1] Sydney:70
+Tokyo:60 [1] Tokyo:70
+Los Angeles:70 [1] Los Angeles:80
+Los Angeles:70 [1] Los Angeles:80
+Los Angeles:70 [1] Los Angeles:80
+Los Angeles:70 [1] Los Angeles:80
+Singapore:70 [1] Los Angeles:80
+Sydney:70 [1] Los Angeles:80
+Los Angeles:70 [1] Los Angeles:80
+Los Angeles:70 [1] Los Angeles:80
+Los Angeles:70 [1] Los Angeles:80
+Los Angeles:70 [1] Los Angeles:80
+Los Angeles:70 [1] Los Angeles:80
+Singapore:70 [1] Los Angeles:80
+Los Angeles:70 [1] Los Angeles:80
+Singapore:70 [1] Los Angeles:80
+Singapore:70 [1] Los Angeles:80
+Los Angeles:70 [1] Los Angeles:80
+Tokyo:70 [1] Los Angeles:80
+Los Angeles:70 [1] Los Angeles:80
+Mumbai:70 [1] Mumbai:80
+Sao Paulo:70 [1] Sao Paulo:80
+Los Angeles:80 [1] Los Angeles:90
+Los Angeles:80 [1] Los Angeles:90
+Los Angeles:80 [1] Los Angeles:90
+Los Angeles:80 [1] Los Angeles:90
+Los Angeles:80 [1] Los Angeles:90
+Los Angeles:80 [1] Los Angeles:90
+Los Angeles:80 [1] Los Angeles:90
+Los Angeles:80 [1] Los Angeles:90
+Los Angeles:80 [1] Los Angeles:90
+Los Angeles:80 [1] Los Angeles:90
+Los Angeles:80 [1] Los Angeles:90
+Los Angeles:80 [1] Los Angeles:90
+Los Angeles:80 [1] Los Angeles:90
+Los Angeles:80 [1] Los Angeles:90
+Los Angeles:80 [1] Los Angeles:90
+Los Angeles:80 [1] Los Angeles:90
+Los Angeles:80 [1] Los Angeles:90
+Los Angeles:80 [1] Los Angeles:90
+Mumbai:80 [1] Mumbai:90
+Sao Paulo:80 [1] Sao Paulo:90
+Los Angeles:90 [1] Los Angeles:100
+Los Angeles:90 [1] Los Angeles:100
+Los Angeles:90 [1] Los Angeles:100
+Los Angeles:90 [1] Los Angeles:100
+Los Angeles:90 [1] Los Angeles:100
+Los Angeles:90 [1] Los Angeles:100
+Los Angeles:90 [1] Los Angeles:100
+Los Angeles:90 [1] Los Angeles:100
+Los Angeles:90 [1] Los Angeles:100
+Los Angeles:90 [1] Los Angeles:100
+Los Angeles:90 [1] Los Angeles:100
+Los Angeles:90 [1] Los Angeles:100
+Los Angeles:90 [1] Los Angeles:100
+Los Angeles:90 [1] Los Angeles:100
+Los Angeles:90 [1] Los Angeles:100
+Sao Paulo:90 [1] Los Angeles:100
+Los Angeles:90 [1] Los Angeles:100
+Los Angeles:90 [1] Los Angeles:100
+Los Angeles:90 [1] Los Angeles:100
+Mumbai:90 [1] Mumbai:100
+Los Angeles:100 [1] Los Angeles:110
+Los Angeles:100 [1] Los Angeles:110
+Los Angeles:100 [1] Los Angeles:110
+Los Angeles:100 [1] Los Angeles:110
+Los Angeles:100 [1] Los Angeles:110
+Los Angeles:100 [1] Los Angeles:110
+Mumbai:100 [1] Los Angeles:110
+Los Angeles:100 [1] Los Angeles:110
+Los Angeles:100 [1] Los Angeles:110
+Los Angeles:100 [1] Los Angeles:110
+Los Angeles:100 [1] Los Angeles:110
+Los Angeles:100 [1] Los Angeles:110
+Los Angeles:100 [1] Los Angeles:110
+Los Angeles:100 [1] Los Angeles:110
+Los Angeles:100 [1] Los Angeles:110
+Los Angeles:100 [1] Los Angeles:110
+Los Angeles:100 [1] Los Angeles:110
+Los Angeles:100 [1] Los Angeles:110
+Los Angeles:100 [1] Los Angeles:110
+Los Angeles:100 [1] Los Angeles:110

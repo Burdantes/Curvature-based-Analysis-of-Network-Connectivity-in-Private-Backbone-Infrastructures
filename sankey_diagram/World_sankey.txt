@@ -1,0 +1,555 @@
+6470 [1] Singapore#0:0
+6712 [1] Brussels#0:0
+6479 [1] Virginia#0:0
+6445 [1] Zurich#0:0
+6367 [1] Tokyo#0:0
+6614 [1] South Carolina#0:0
+6404 [1] Quebec#0:0
+1000706 [1] Ningxia#0:0
+1000708 [1] Bahrain#0:0
+6699 [1] London#0:0
+50194 [1] North Carolina#0:0
+54393 [1] Hong Kong#0:0
+6274 [1] Washington#0:0
+6152 [1] Frankfurt#0:0
+6792 [1] Seoul#0:0
+6348 [1] North Holland#0:0
+6851 [1] Stockholm#0:0
+6698 [1] Oregon#0:0
+6707 [1] Kymenlaakso#0:0
+6700 [1] Taiwan#0:0
+6666 [1] Paris#0:0
+21044 [1] Jakarta Rya#0:0
+6702 [1] Amsterdam#0:0
+6465 [1] Dublin#0:0
+6359 [1] Toronto#0:0
+35078 [1] Ohio#0:0
+55428 [1] Doha#0:0
+6697 [1] California#0:0
+6764 [1] Sydney#0:0
+1000510 [1] Osaka#0:0
+6705 [1] Mumbai#0:0
+6613 [1] Iowa#0:0
+12565 [1] Utah#0:0
+6053 [1] Johannesburg#0:0
+6095 [1] San Francisco#0:0
+6711 [1] Sao Paulo#0:0
+55666 [1] Kuala Lumpur#0:0
+Frankfurt#0:0 [1] Frankfurt#0:10
+Brussels#0:0 [1] Frankfurt#0:10
+London#0:0 [1] Frankfurt#0:10
+Paris#0:0 [1] Frankfurt#0:10
+Amsterdam#0:0 [1] Frankfurt#0:10
+Dublin#0:0 [1] Frankfurt#0:10
+Zurich#0:0 [1] Frankfurt#0:10
+North Holland#0:0 [1] Frankfurt#0:10
+Singapore#0:0 [1] Singapore#0:10
+Kuala Lumpur#0:0 [1] Singapore#0:10
+California#0:0 [1] California#0:10
+San Francisco#0:0 [1] California#0:10
+Osaka#0:0 [1] Osaka#0:10
+Tokyo#0:0 [1] Osaka#0:10
+Bahrain#0:0 [1] Bahrain#0:10
+Doha#0:0 [1] Bahrain#0:10
+Washington#0:0 [1] Washington#0:10
+Oregon#0:0 [1] Washington#0:10
+Kymenlaakso#0:0 [1] Kymenlaakso#0:10
+Stockholm#0:0 [1] Kymenlaakso#0:10
+Quebec#0:0 [1] Quebec#0:10
+Toronto#0:0 [1] Quebec#0:10
+Taiwan#0:0 [1] Taiwan#0:10
+Iowa#0:0 [1] Iowa#0:10
+Sydney#0:0 [1] Sydney#0:10
+South Carolina#0:0 [1] South Carolina#0:10
+Johannesburg#0:0 [1] Johannesburg#0:10
+North Carolina#0:0 [1] North Carolina#0:10
+Sao Paulo#0:0 [1] Sao Paulo#0:10
+Hong Kong#0:0 [1] Hong Kong#0:10
+Virginia#0:0 [1] Virginia#0:10
+Ningxia#0:0 [1] Ningxia#0:10
+Jakarta Rya#0:0 [1] Jakarta Rya#0:10
+Mumbai#0:0 [1] Mumbai#0:10
+Seoul#0:0 [1] Seoul#0:10
+Ohio#0:0 [1] Ohio#0:10
+Utah#0:0 [1] Utah#0:10
+Frankfurt#0:10 [1] Frankfurt#0:20
+Frankfurt#0:10 [1] Frankfurt#0:20
+Frankfurt#0:10 [1] Frankfurt#0:20
+Frankfurt#0:10 [1] Frankfurt#0:20
+Frankfurt#0:10 [1] Frankfurt#0:20
+Frankfurt#0:10 [1] Frankfurt#0:20
+Frankfurt#0:10 [1] Frankfurt#0:20
+Frankfurt#0:10 [1] Frankfurt#0:20
+Virginia#0:10 [1] Virginia#0:20
+South Carolina#0:10 [1] Virginia#0:20
+North Carolina#0:10 [1] Virginia#0:20
+Quebec#0:10 [1] Virginia#0:20
+Iowa#0:10 [1] Virginia#0:20
+Ohio#0:10 [1] Virginia#0:20
+Quebec#0:10 [1] Virginia#0:20
+Washington#0:10 [1] Washington#0:20
+Washington#0:10 [1] Washington#0:20
+Utah#0:10 [1] Washington#0:20
+California#0:10 [1] Washington#0:20
+California#0:10 [1] Washington#0:20
+Jakarta Rya#0:10 [1] Jakarta Rya#0:20
+Singapore#0:10 [1] Jakarta Rya#0:20
+Singapore#0:10 [1] Jakarta Rya#0:20
+Taiwan#0:10 [1] Taiwan#0:20
+Hong Kong#0:10 [1] Taiwan#0:20
+Osaka#0:10 [1] Osaka#0:20
+Osaka#0:10 [1] Osaka#0:20
+Bahrain#0:10 [1] Bahrain#0:20
+Bahrain#0:10 [1] Bahrain#0:20
+Kymenlaakso#0:10 [1] Kymenlaakso#0:20
+Kymenlaakso#0:10 [1] Kymenlaakso#0:20
+Sydney#0:10 [1] Sydney#0:20
+Johannesburg#0:10 [1] Johannesburg#0:20
+Sao Paulo#0:10 [1] Sao Paulo#0:20
+Ningxia#0:10 [1] Ningxia#0:20
+Mumbai#0:10 [1] Mumbai#0:20
+Seoul#0:10 [1] Seoul#0:20
+Washington#0:20 [1] Washington#0:30
+Washington#0:20 [1] Washington#0:30
+Washington#0:20 [1] Washington#0:30
+Virginia#0:20 [1] Washington#0:30
+Virginia#0:20 [1] Washington#0:30
+Virginia#0:20 [1] Washington#0:30
+Virginia#0:20 [1] Washington#0:30
+Virginia#0:20 [1] Washington#0:30
+Washington#0:20 [1] Washington#0:30
+Washington#0:20 [1] Washington#0:30
+Virginia#0:20 [1] Washington#0:30
+Virginia#0:20 [1] Washington#0:30
+Frankfurt#0:20 [1] Frankfurt#0:30
+Frankfurt#0:20 [1] Frankfurt#0:30
+Frankfurt#0:20 [1] Frankfurt#0:30
+Frankfurt#0:20 [1] Frankfurt#0:30
+Frankfurt#0:20 [1] Frankfurt#0:30
+Frankfurt#0:20 [1] Frankfurt#0:30
+Frankfurt#0:20 [1] Frankfurt#0:30
+Kymenlaakso#0:20 [1] Frankfurt#0:30
+Frankfurt#0:20 [1] Frankfurt#0:30
+Kymenlaakso#0:20 [1] Frankfurt#0:30
+Taiwan#0:20 [1] Hong Kong#0:30
+Osaka#0:20 [1] Hong Kong#0:30
+Taiwan#0:20 [1] Hong Kong#0:30
+Seoul#0:20 [1] Hong Kong#0:30
+Osaka#0:20 [1] Hong Kong#0:30
+Jakarta Rya#0:20 [1] Jakarta Rya#0:30
+Jakarta Rya#0:20 [1] Jakarta Rya#0:30
+Jakarta Rya#0:20 [1] Jakarta Rya#0:30
+Bahrain#0:20 [1] Bahrain#0:30
+Bahrain#0:20 [1] Bahrain#0:30
+Sydney#0:20 [1] Sydney#0:30
+Johannesburg#0:20 [1] Johannesburg#0:30
+Sao Paulo#0:20 [1] Sao Paulo#0:30
+Ningxia#0:20 [1] Ningxia#0:30
+Mumbai#0:20 [1] Mumbai#0:30
+Washington#0:30 [1] Washington#0:40
+Washington#0:30 [1] Washington#0:40
+Washington#0:30 [1] Washington#0:40
+Washington#0:30 [1] Washington#0:40
+Washington#0:30 [1] Washington#0:40
+Washington#0:30 [1] Washington#0:40
+Washington#0:30 [1] Washington#0:40
+Washington#0:30 [1] Washington#0:40
+Washington#0:30 [1] Washington#0:40
+Washington#0:30 [1] Washington#0:40
+Washington#0:30 [1] Washington#0:40
+Washington#0:30 [1] Washington#0:40
+Frankfurt#0:30 [1] Frankfurt#0:40
+Frankfurt#0:30 [1] Frankfurt#0:40
+Frankfurt#0:30 [1] Frankfurt#0:40
+Frankfurt#0:30 [1] Frankfurt#0:40
+Frankfurt#0:30 [1] Frankfurt#0:40
+Frankfurt#0:30 [1] Frankfurt#0:40
+Frankfurt#0:30 [1] Frankfurt#0:40
+Frankfurt#0:30 [1] Frankfurt#0:40
+Frankfurt#0:30 [1] Frankfurt#0:40
+Frankfurt#0:30 [1] Frankfurt#0:40
+Jakarta Rya#0:30 [1] Jakarta Rya#0:40
+Hong Kong#0:30 [1] Jakarta Rya#0:40
+Jakarta Rya#0:30 [1] Jakarta Rya#0:40
+Hong Kong#0:30 [1] Jakarta Rya#0:40
+Jakarta Rya#0:30 [1] Jakarta Rya#0:40
+Hong Kong#0:30 [1] Jakarta Rya#0:40
+Hong Kong#0:30 [1] Jakarta Rya#0:40
+Hong Kong#0:30 [1] Jakarta Rya#0:40
+Mumbai#0:30 [1] Mumbai#0:40
+Bahrain#0:30 [1] Mumbai#0:40
+Bahrain#0:30 [1] Mumbai#0:40
+Sydney#0:30 [1] Sydney#0:40
+Johannesburg#0:30 [1] Johannesburg#0:40
+Sao Paulo#0:30 [1] Sao Paulo#0:40
+Ningxia#0:30 [1] Ningxia#0:40
+Washington#0:40 [1] Washington#0:50
+Washington#0:40 [1] Washington#0:50
+Washington#0:40 [1] Washington#0:50
+Washington#0:40 [1] Washington#0:50
+Washington#0:40 [1] Washington#0:50
+Washington#0:40 [1] Washington#0:50
+Washington#0:40 [1] Washington#0:50
+Washington#0:40 [1] Washington#0:50
+Washington#0:40 [1] Washington#0:50
+Washington#0:40 [1] Washington#0:50
+Washington#0:40 [1] Washington#0:50
+Washington#0:40 [1] Washington#0:50
+Frankfurt#0:40 [1] Frankfurt#0:50
+Frankfurt#0:40 [1] Frankfurt#0:50
+Frankfurt#0:40 [1] Frankfurt#0:50
+Frankfurt#0:40 [1] Frankfurt#0:50
+Frankfurt#0:40 [1] Frankfurt#0:50
+Frankfurt#0:40 [1] Frankfurt#0:50
+Frankfurt#0:40 [1] Frankfurt#0:50
+Frankfurt#0:40 [1] Frankfurt#0:50
+Frankfurt#0:40 [1] Frankfurt#0:50
+Frankfurt#0:40 [1] Frankfurt#0:50
+Jakarta Rya#0:40 [1] Jakarta Rya#0:50
+Jakarta Rya#0:40 [1] Jakarta Rya#0:50
+Jakarta Rya#0:40 [1] Jakarta Rya#0:50
+Jakarta Rya#0:40 [1] Jakarta Rya#0:50
+Jakarta Rya#0:40 [1] Jakarta Rya#0:50
+Jakarta Rya#0:40 [1] Jakarta Rya#0:50
+Jakarta Rya#0:40 [1] Jakarta Rya#0:50
+Jakarta Rya#0:40 [1] Jakarta Rya#0:50
+Mumbai#0:40 [1] Mumbai#0:50
+Mumbai#0:40 [1] Mumbai#0:50
+Mumbai#0:40 [1] Mumbai#0:50
+Sydney#0:40 [1] Sydney#0:50
+Johannesburg#0:40 [1] Johannesburg#0:50
+Sao Paulo#0:40 [1] Sao Paulo#0:50
+Ningxia#0:40 [1] Ningxia#0:50
+Washington#0:50 [1] Washington#0:60
+Frankfurt#0:50 [1] Washington#0:60
+Washington#0:50 [1] Washington#0:60
+Frankfurt#0:50 [1] Washington#0:60
+Washington#0:50 [1] Washington#0:60
+Frankfurt#0:50 [1] Washington#0:60
+Washington#0:50 [1] Washington#0:60
+Washington#0:50 [1] Washington#0:60
+Frankfurt#0:50 [1] Washington#0:60
+Washington#0:50 [1] Washington#0:60
+Frankfurt#0:50 [1] Washington#0:60
+Frankfurt#0:50 [1] Washington#0:60
+Frankfurt#0:50 [1] Washington#0:60
+Washington#0:50 [1] Washington#0:60
+Frankfurt#0:50 [1] Washington#0:60
+Washington#0:50 [1] Washington#0:60
+Frankfurt#0:50 [1] Washington#0:60
+Frankfurt#0:50 [1] Washington#0:60
+Washington#0:50 [1] Washington#0:60
+Washington#0:50 [1] Washington#0:60
+Washington#0:50 [1] Washington#0:60
+Washington#0:50 [1] Washington#0:60
+Jakarta Rya#0:50 [1] Jakarta Rya#0:60
+Mumbai#0:50 [1] Jakarta Rya#0:60
+Jakarta Rya#0:50 [1] Jakarta Rya#0:60
+Jakarta Rya#0:50 [1] Jakarta Rya#0:60
+Mumbai#0:50 [1] Jakarta Rya#0:60
+Jakarta Rya#0:50 [1] Jakarta Rya#0:60
+Jakarta Rya#0:50 [1] Jakarta Rya#0:60
+Jakarta Rya#0:50 [1] Jakarta Rya#0:60
+Jakarta Rya#0:50 [1] Jakarta Rya#0:60
+Ningxia#0:50 [1] Jakarta Rya#0:60
+Jakarta Rya#0:50 [1] Jakarta Rya#0:60
+Mumbai#0:50 [1] Jakarta Rya#0:60
+Sydney#0:50 [1] Sydney#0:60
+Johannesburg#0:50 [1] Johannesburg#0:60
+Sao Paulo#0:50 [1] Sao Paulo#0:60
+Jakarta Rya#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Jakarta Rya#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Jakarta Rya#0:60 [1] Jakarta Rya#0:70
+Jakarta Rya#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Jakarta Rya#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Jakarta Rya#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Jakarta Rya#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Jakarta Rya#0:60 [1] Jakarta Rya#0:70
+Jakarta Rya#0:60 [1] Jakarta Rya#0:70
+Jakarta Rya#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Jakarta Rya#0:60 [1] Jakarta Rya#0:70
+Jakarta Rya#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Washington#0:60 [1] Jakarta Rya#0:70
+Sydney#0:60 [1] Sydney#0:70
+Johannesburg#0:60 [1] Johannesburg#0:70
+Sao Paulo#0:60 [1] Sao Paulo#0:70
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Jakarta Rya#0:70 [1] Jakarta Rya#0:80
+Sydney#0:70 [1] Jakarta Rya#0:80
+Johannesburg#0:70 [1] Johannesburg#0:80
+Sao Paulo#0:70 [1] Sao Paulo#0:80
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Jakarta Rya#0:80 [1] Jakarta Rya#0:90
+Johannesburg#0:80 [1] Johannesburg#0:90
+Sao Paulo#0:80 [1] Sao Paulo#0:90
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Sao Paulo#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Jakarta Rya#0:90 [1] Jakarta Rya#0:100
+Johannesburg#0:90 [1] Johannesburg#0:100
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Jakarta Rya#0:100 [1] Jakarta Rya#0:110
+Johannesburg#0:100 [1] Johannesburg#0:110
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Jakarta Rya#0:110 [1] Jakarta Rya#0:120
+Johannesburg#0:110 [1] Johannesburg#0:120
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Jakarta Rya#0:120 [1] Jakarta Rya#0:130
+Johannesburg#0:120 [1] Johannesburg#0:130
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Johannesburg#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140
+Jakarta Rya#0:130 [1] Jakarta Rya#0:140

@@ -1,0 +1,218 @@
+,source,target,value,IDsource,IDtarget,group
+0,Google_Amsterdam,Amsterdam:10,1,82,36,grey
+1,Google_Frankfurt,Amsterdam:10,1,52,36,grey
+2,Google_London,Amsterdam:10,1,7,36,grey
+3,Google_Belgium,Amsterdam:10,1,11,36,grey
+4,Google_Hong Kong,Hong Kong:10,1,22,48,grey
+5,Google_Taiwan,Hong Kong:10,1,68,48,grey
+6,Google_Helsinki,Helsinki:10,1,28,6,grey
+7,Google_Kane,Kane:10,1,89,29,grey
+8,Google_Los Angeles,Los Angeles:10,1,85,74,grey
+9,Google_Montreal,Montreal:10,1,71,55,grey
+10,Google_Mumbai,Mumbai:10,1,33,72,grey
+11,Google_Ashburn,Ashburn:10,1,47,54,grey
+12,Google_Sao Paulo,Sao Paulo:10,1,50,51,grey
+13,Google_Sydney,Sydney:10,1,43,70,grey
+14,Google_Tokyo,Tokyo:10,1,83,30,grey
+15,Google_Oregon,Oregon:10,1,12,64,grey
+16,Google_Osaka,Osaka:10,1,73,18,grey
+17,Google_Singapore,Singapore:10,1,76,13,grey
+18,Google_Charleston,Charleston:10,1,62,39,grey
+19,Google_Zurich,Zurich:10,1,34,14,grey
+20,Amsterdam:10,Frankfurt:20,1,36,78,grey
+21,Amsterdam:10,Frankfurt:20,1,36,78,grey
+22,Zurich:10,Frankfurt:20,1,14,78,grey
+23,Amsterdam:10,Frankfurt:20,1,36,78,grey
+24,Amsterdam:10,Frankfurt:20,1,36,78,grey
+25,Montreal:10,Montreal:20,1,55,15,grey
+26,Charleston:10,Montreal:20,1,39,15,grey
+27,Ashburn:10,Montreal:20,1,54,15,grey
+28,Hong Kong:10,Hong Kong:20,1,48,44,grey
+29,Hong Kong:10,Hong Kong:20,1,48,44,grey
+30,Helsinki:10,Helsinki:20,1,6,80,grey
+31,Kane:10,Kane:20,1,29,1,grey
+32,Los Angeles:10,Los Angeles:20,1,74,56,grey
+33,Mumbai:10,Mumbai:20,1,72,8,grey
+34,Sao Paulo:10,Sao Paulo:20,1,51,42,grey
+35,Sydney:10,Sydney:20,1,70,2,grey
+36,Tokyo:10,Tokyo:20,1,30,79,grey
+37,Oregon:10,Oregon:20,1,64,40,grey
+38,Osaka:10,Osaka:20,1,18,10,grey
+39,Singapore:10,Singapore:20,1,13,19,grey
+40,Helsinki:20,Helsinki:30,1,80,86,grey
+41,Frankfurt:20,Helsinki:30,1,78,86,grey
+42,Frankfurt:20,Helsinki:30,1,78,86,grey
+43,Frankfurt:20,Helsinki:30,1,78,86,grey
+44,Frankfurt:20,Helsinki:30,1,78,86,grey
+45,Frankfurt:20,Helsinki:30,1,78,86,grey
+46,Los Angeles:20,Los Angeles:30,1,56,69,grey
+47,Montreal:20,Los Angeles:30,1,15,69,grey
+48,Montreal:20,Los Angeles:30,1,15,69,grey
+49,Kane:20,Los Angeles:30,1,1,69,grey
+50,Montreal:20,Los Angeles:30,1,15,69,grey
+51,Singapore:20,Singapore:30,1,19,49,grey
+52,Hong Kong:20,Singapore:30,1,44,49,grey
+53,Hong Kong:20,Singapore:30,1,44,49,grey
+54,Mumbai:20,Mumbai:30,1,8,53,grey
+55,Sao Paulo:20,Sao Paulo:30,1,42,0,grey
+56,Sydney:20,Sydney:30,1,2,38,grey
+57,Tokyo:20,Tokyo:30,1,79,63,grey
+58,Helsinki:30,Helsinki:40,1,86,41,grey
+59,Helsinki:30,Helsinki:40,1,86,41,grey
+60,Helsinki:30,Helsinki:40,1,86,41,grey
+61,Helsinki:30,Helsinki:40,1,86,41,grey
+62,Helsinki:30,Helsinki:40,1,86,41,grey
+63,Helsinki:30,Helsinki:40,1,86,41,grey
+64,Los Angeles:30,Los Angeles:40,1,69,37,grey
+65,Los Angeles:30,Los Angeles:40,1,69,37,grey
+66,Los Angeles:30,Los Angeles:40,1,69,37,grey
+67,Los Angeles:30,Los Angeles:40,1,69,37,grey
+68,Los Angeles:30,Los Angeles:40,1,69,37,grey
+69,Singapore:30,Singapore:40,1,49,5,grey
+70,Singapore:30,Singapore:40,1,49,5,grey
+71,Osaka:20,Singapore:40,1,10,5,grey
+72,Singapore:30,Singapore:40,1,49,5,grey
+73,Mumbai:30,Mumbai:40,1,53,90,grey
+74,Sao Paulo:30,Sao Paulo:40,1,0,27,grey
+75,Sydney:30,Sydney:40,1,38,75,grey
+76,Tokyo:30,Tokyo:40,1,63,31,grey
+77,Helsinki:40,Helsinki:50,1,41,88,grey
+78,Helsinki:40,Helsinki:50,1,41,88,grey
+79,Helsinki:40,Helsinki:50,1,41,88,grey
+80,Helsinki:40,Helsinki:50,1,41,88,grey
+81,Helsinki:40,Helsinki:50,1,41,88,grey
+82,Helsinki:40,Helsinki:50,1,41,88,grey
+83,Los Angeles:40,Los Angeles:50,1,37,20,grey
+84,Los Angeles:40,Los Angeles:50,1,37,20,grey
+85,Oregon:20,Los Angeles:50,1,40,20,grey
+86,Los Angeles:40,Los Angeles:50,1,37,20,grey
+87,Los Angeles:40,Los Angeles:50,1,37,20,grey
+88,Los Angeles:40,Los Angeles:50,1,37,20,grey
+89,Singapore:40,Singapore:50,1,5,23,grey
+90,Singapore:40,Singapore:50,1,5,23,grey
+91,Singapore:40,Singapore:50,1,5,23,grey
+92,Singapore:40,Singapore:50,1,5,23,grey
+93,Mumbai:40,Mumbai:50,1,90,65,grey
+94,Sao Paulo:40,Sao Paulo:50,1,27,84,grey
+95,Sydney:40,Sydney:50,1,75,16,grey
+96,Tokyo:40,Tokyo:50,1,31,58,grey
+97,Los Angeles:50,Los Angeles:60,1,20,3,grey
+98,Helsinki:50,Los Angeles:60,1,88,3,grey
+99,Helsinki:50,Los Angeles:60,1,88,3,grey
+100,Los Angeles:50,Los Angeles:60,1,20,3,grey
+101,Helsinki:50,Los Angeles:60,1,88,3,grey
+102,Helsinki:50,Los Angeles:60,1,88,3,grey
+103,Los Angeles:50,Los Angeles:60,1,20,3,grey
+104,Helsinki:50,Los Angeles:60,1,88,3,grey
+105,Los Angeles:50,Los Angeles:60,1,20,3,grey
+106,Los Angeles:50,Los Angeles:60,1,20,3,grey
+107,Helsinki:50,Los Angeles:60,1,88,3,grey
+108,Los Angeles:50,Los Angeles:60,1,20,3,grey
+109,Singapore:50,Singapore:60,1,23,67,grey
+110,Singapore:50,Singapore:60,1,23,67,grey
+111,Singapore:50,Singapore:60,1,23,67,grey
+112,Singapore:50,Singapore:60,1,23,67,grey
+113,Mumbai:50,Mumbai:60,1,65,25,grey
+114,Sao Paulo:50,Sao Paulo:60,1,84,32,grey
+115,Sydney:50,Sydney:60,1,16,9,grey
+116,Tokyo:50,Tokyo:60,1,58,21,grey
+117,Los Angeles:60,Los Angeles:70,1,3,4,grey
+118,Los Angeles:60,Los Angeles:70,1,3,4,grey
+119,Los Angeles:60,Los Angeles:70,1,3,4,grey
+120,Los Angeles:60,Los Angeles:70,1,3,4,grey
+121,Los Angeles:60,Los Angeles:70,1,3,4,grey
+122,Los Angeles:60,Los Angeles:70,1,3,4,grey
+123,Los Angeles:60,Los Angeles:70,1,3,4,grey
+124,Los Angeles:60,Los Angeles:70,1,3,4,grey
+125,Los Angeles:60,Los Angeles:70,1,3,4,grey
+126,Los Angeles:60,Los Angeles:70,1,3,4,grey
+127,Los Angeles:60,Los Angeles:70,1,3,4,grey
+128,Los Angeles:60,Los Angeles:70,1,3,4,grey
+129,Singapore:60,Singapore:70,1,67,66,grey
+130,Singapore:60,Singapore:70,1,67,66,grey
+131,Singapore:60,Singapore:70,1,67,66,grey
+132,Singapore:60,Singapore:70,1,67,66,grey
+133,Mumbai:60,Mumbai:70,1,25,61,grey
+134,Sao Paulo:60,Sao Paulo:70,1,32,59,grey
+135,Sydney:60,Sydney:70,1,9,87,grey
+136,Tokyo:60,Tokyo:70,1,21,45,grey
+137,Los Angeles:70,Los Angeles:80,1,4,35,grey
+138,Los Angeles:70,Los Angeles:80,1,4,35,grey
+139,Los Angeles:70,Los Angeles:80,1,4,35,grey
+140,Los Angeles:70,Los Angeles:80,1,4,35,grey
+141,Singapore:70,Los Angeles:80,1,66,35,grey
+142,Sydney:70,Los Angeles:80,1,87,35,grey
+143,Los Angeles:70,Los Angeles:80,1,4,35,grey
+144,Los Angeles:70,Los Angeles:80,1,4,35,grey
+145,Los Angeles:70,Los Angeles:80,1,4,35,grey
+146,Los Angeles:70,Los Angeles:80,1,4,35,grey
+147,Los Angeles:70,Los Angeles:80,1,4,35,grey
+148,Singapore:70,Los Angeles:80,1,66,35,grey
+149,Los Angeles:70,Los Angeles:80,1,4,35,grey
+150,Singapore:70,Los Angeles:80,1,66,35,grey
+151,Singapore:70,Los Angeles:80,1,66,35,grey
+152,Los Angeles:70,Los Angeles:80,1,4,35,grey
+153,Tokyo:70,Los Angeles:80,1,45,35,grey
+154,Los Angeles:70,Los Angeles:80,1,4,35,grey
+155,Mumbai:70,Mumbai:80,1,61,57,grey
+156,Sao Paulo:70,Sao Paulo:80,1,59,17,grey
+157,Los Angeles:80,Los Angeles:90,1,35,60,grey
+158,Los Angeles:80,Los Angeles:90,1,35,60,grey
+159,Los Angeles:80,Los Angeles:90,1,35,60,grey
+160,Los Angeles:80,Los Angeles:90,1,35,60,grey
+161,Los Angeles:80,Los Angeles:90,1,35,60,grey
+162,Los Angeles:80,Los Angeles:90,1,35,60,grey
+163,Los Angeles:80,Los Angeles:90,1,35,60,grey
+164,Los Angeles:80,Los Angeles:90,1,35,60,grey
+165,Los Angeles:80,Los Angeles:90,1,35,60,grey
+166,Los Angeles:80,Los Angeles:90,1,35,60,grey
+167,Los Angeles:80,Los Angeles:90,1,35,60,grey
+168,Los Angeles:80,Los Angeles:90,1,35,60,grey
+169,Los Angeles:80,Los Angeles:90,1,35,60,grey
+170,Los Angeles:80,Los Angeles:90,1,35,60,grey
+171,Los Angeles:80,Los Angeles:90,1,35,60,grey
+172,Los Angeles:80,Los Angeles:90,1,35,60,grey
+173,Los Angeles:80,Los Angeles:90,1,35,60,grey
+174,Los Angeles:80,Los Angeles:90,1,35,60,grey
+175,Mumbai:80,Mumbai:90,1,57,81,grey
+176,Sao Paulo:80,Sao Paulo:90,1,17,26,grey
+177,Los Angeles:90,Los Angeles:100,1,60,46,grey
+178,Los Angeles:90,Los Angeles:100,1,60,46,grey
+179,Los Angeles:90,Los Angeles:100,1,60,46,grey
+180,Los Angeles:90,Los Angeles:100,1,60,46,grey
+181,Los Angeles:90,Los Angeles:100,1,60,46,grey
+182,Los Angeles:90,Los Angeles:100,1,60,46,grey
+183,Los Angeles:90,Los Angeles:100,1,60,46,grey
+184,Los Angeles:90,Los Angeles:100,1,60,46,grey
+185,Los Angeles:90,Los Angeles:100,1,60,46,grey
+186,Los Angeles:90,Los Angeles:100,1,60,46,grey
+187,Los Angeles:90,Los Angeles:100,1,60,46,grey
+188,Los Angeles:90,Los Angeles:100,1,60,46,grey
+189,Los Angeles:90,Los Angeles:100,1,60,46,grey
+190,Los Angeles:90,Los Angeles:100,1,60,46,grey
+191,Los Angeles:90,Los Angeles:100,1,60,46,grey
+192,Sao Paulo:90,Los Angeles:100,1,26,46,grey
+193,Los Angeles:90,Los Angeles:100,1,60,46,grey
+194,Los Angeles:90,Los Angeles:100,1,60,46,grey
+195,Los Angeles:90,Los Angeles:100,1,60,46,grey
+196,Mumbai:90,Mumbai:100,1,81,77,grey
+197,Los Angeles:100,Los Angeles:110,1,46,24,grey
+198,Los Angeles:100,Los Angeles:110,1,46,24,grey
+199,Los Angeles:100,Los Angeles:110,1,46,24,grey
+200,Los Angeles:100,Los Angeles:110,1,46,24,grey
+201,Los Angeles:100,Los Angeles:110,1,46,24,grey
+202,Los Angeles:100,Los Angeles:110,1,46,24,grey
+203,Mumbai:100,Los Angeles:110,1,77,24,grey
+204,Los Angeles:100,Los Angeles:110,1,46,24,grey
+205,Los Angeles:100,Los Angeles:110,1,46,24,grey
+206,Los Angeles:100,Los Angeles:110,1,46,24,grey
+207,Los Angeles:100,Los Angeles:110,1,46,24,grey
+208,Los Angeles:100,Los Angeles:110,1,46,24,grey
+209,Los Angeles:100,Los Angeles:110,1,46,24,grey
+210,Los Angeles:100,Los Angeles:110,1,46,24,grey
+211,Los Angeles:100,Los Angeles:110,1,46,24,grey
+212,Los Angeles:100,Los Angeles:110,1,46,24,grey
+213,Los Angeles:100,Los Angeles:110,1,46,24,grey
+214,Los Angeles:100,Los Angeles:110,1,46,24,grey
+215,Los Angeles:100,Los Angeles:110,1,46,24,grey
+216,Los Angeles:100,Los Angeles:110,1,46,24,grey
