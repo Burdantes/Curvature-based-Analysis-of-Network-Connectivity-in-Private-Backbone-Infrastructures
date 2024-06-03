@@ -6,6 +6,7 @@ import subprocess
 import pickle
 from tqdm import tqdm
 
+#### MODIFY THE DATE HERE ####
 start_date = '2023-01-01'
 year = start_date.split('-')[0]
 month = start_date.split('-')[1]

@@ -25,12 +25,18 @@ pip install -r requirements.txt
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-After installing the dependencies, you can collect the latency measurements for all the anchor meshes for a given date by updating the Date util.py script and run the full_pipeline.py script:
+After installing the dependencies, you can collect the latency measurements for all the anchor meshes for a given date by updating the **start_date** in the util.py script (it is automatically set at **start_date = '2023-01-01'**) and run the full_pipeline.py script: 
 
 ```sh
 python full_pipeline.py
 ```
+This process collects the anchor measurements across a week (that is a pretty slow process, feel free to crank up the number of processes) and saves the smallest latency measurements for each anchor pair in the **Datasets/AnchorMeasurements/$start_date** folder. Then it automatically generates the residual latency and associate graph. It also computes the graphs that it stores in **Datasets/Graphs/$start_date**. These graphs can be then analyzed using the scripts in the **Analysis** folder.
 
+```sh
+python boxplot.py
+python heatmap.py
+python sankey.py
+```
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -47,8 +53,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 ## Update in 2023 - no more RIPE Atlas Anchors
 
-Since Aug. 2023, both AWS and Google are not hosting RIPE Atlas anchors anymore. The code is still functional, but it is not possible to collect data for 2023 and beyond. If you are interested in running the technique for mapping the cloud, you can use the approach described in the paper for Azure (that is opening VMs in different regions and measuring the latency between them). That's more complex and we are currently working toward automating this process such that we can provide latency directly for utilization and avoid the massive overhead.
-
+Since August 2023, both AWS and Google no longer host RIPE Atlas anchors. While the code remains functional, it is no longer possible to collect data for 2023 and beyond using these platforms. If you are interested in using the technique for mapping the cloud, you can apply the approach described in the paper for Azure. This involves opening VMs in different regions and measuring the latency between them. This process is more complex, and we are currently working on automating it to provide latency data directly, thereby avoiding the significant overhead.
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -79,6 +84,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - Loqman Salamatian (ls3748 at columbia dot edu)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/burdantes/](https://github.com/Burdantes/Curvature-based-Analysis-of-Network-Connectivity-in-Private-Backbone-Infrastructures)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
