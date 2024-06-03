@@ -13,7 +13,7 @@ To get a local copy up and running follow these simple example steps.
 ### Installation
 Installation
 
-To get started with the repository, clone it to your local machine and install the necessary dependencies:
+To get started with the repository, clone it to your local machine and install the necessary dependencies. You can do this by running the following commands in your terminal. The code has been tested on Python 3.9:
 
 ```sh
 git clone https://github.com/yourusername/Curvature-based-Analysis-of-Network-Connectivity.git
