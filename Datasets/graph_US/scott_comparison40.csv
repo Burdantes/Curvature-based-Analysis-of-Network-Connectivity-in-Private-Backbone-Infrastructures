@@ -1,0 +1,6 @@
+,FROM_PROBE,FROM_CITY,FROM_STATE,FROM_LATITUDE,FROM_LONGITUDE,TO_PROBE,TO_CITY,TO_STATE,TO_LATITUDE,TO_LONGITUDE,GREAT CIRCLE DISTANCE (in KM),RICCI
+1283,6065,Seattle,Washington,"6065    47.6095
+Name: latitude, dtype: object","6065   -122.34
+Name: longitude, dtype: object",6418,Unknown,Indiana,"6418    39.9615
+Name: latitude, dtype: object","6418   -86.1525
+Name: longitude, dtype: object",2996.4308350030155,-0.279411764734679

@@ -1,0 +1,667 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="ricciCurvature" attr.type="double"/>
+<key id="d6" for="node" attr.name="ricciCurvature" attr.type="double"/>
+<key id="d5" for="node" attr.name="long" attr.type="double"/>
+<key id="d4" for="node" attr.name="lat" attr.type="double"/>
+<key id="d3" for="node" attr.name="sub-continents" attr.type="string"/>
+<key id="d2" for="node" attr.name="continents" attr.type="string"/>
+<key id="d1" for="node" attr.name="country" attr.type="string"/>
+<key id="d0" for="node" attr.name="city" attr.type="string"/>
+<graph edgedefault="undirected"><node id="6259">
+  <data key="d0">Illinois</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">40.4595</data>
+  <data key="d5">-87.6595</data>
+</node>
+<node id="6097">
+  <data key="d0">Michigan</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">42.7105</data>
+  <data key="d5">-84.6685</data>
+</node>
+<node id="6379">
+  <data key="d0">North Carolina</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">35.3305</data>
+  <data key="d5">-81.8715</data>
+</node>
+<node id="6229">
+  <data key="d0">California</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">37.7195</data>
+  <data key="d5">-122.3985</data>
+</node>
+<node id="6407">
+  <data key="d0">Washington</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">47.6205</data>
+  <data key="d5">-122.3625</data>
+</node>
+<node id="6156">
+  <data key="d0">California</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">37.7195</data>
+  <data key="d5">-122.3985</data>
+</node>
+<node id="6222">
+  <data key="d0">Massachusetts</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">42.3485</data>
+  <data key="d5">-71.0615</data>
+</node>
+<node id="6290">
+  <data key="d0">California</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d6">0.07417582415851975</data>
+  <data key="d4">37.7195</data>
+  <data key="d5">-122.3985</data>
+</node>
+<node id="6095">
+  <data key="d0">California</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">37.7195</data>
+  <data key="d5">-122.3985</data>
+</node>
+<node id="6264">
+  <data key="d0">Washington</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d6">0.07417582415851975</data>
+  <data key="d4">47.6205</data>
+  <data key="d5">-122.3625</data>
+</node>
+<node id="6288">
+  <data key="d0">Pennsylvania</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d6">0.07417582415851975</data>
+  <data key="d4">39.9585</data>
+  <data key="d5">-75.6095</data>
+</node>
+<node id="6418">
+  <data key="d0">Indiana</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">39.9615</data>
+  <data key="d5">-86.1525</data>
+</node>
+<node id="6067">
+  <data key="d0">Texas</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">32.7975</data>
+  <data key="d5">-96.8195</data>
+</node>
+<node id="6130">
+  <data key="d0">Virginia</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">38.9475</data>
+  <data key="d5">-77.3715</data>
+</node>
+<node id="6257">
+  <data key="d0">Kansas</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">38.9505</data>
+  <data key="d5">-95.2625</data>
+</node>
+<node id="6422">
+  <data key="d0">Florida</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d6">-0.39098901100267264</data>
+  <data key="d4">25.7885</data>
+  <data key="d5">-80.2295</data>
+</node>
+<node id="6080">
+  <data key="d0">Colorado</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">39.7385</data>
+  <data key="d5">-104.9885</data>
+</node>
+<node id="6549">
+  <data key="d0">New York</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">40.7115</data>
+  <data key="d5">-74.0105</data>
+</node>
+<node id="6437">
+  <data key="d0">Texas</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">32.7975</data>
+  <data key="d5">-96.8195</data>
+</node>
+<node id="6092">
+  <data key="d0">Virginia</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">38.9475</data>
+  <data key="d5">-77.3715</data>
+</node>
+<node id="6205">
+  <data key="d0">Virginia</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">38.9475</data>
+  <data key="d5">-77.3715</data>
+</node>
+<node id="6274">
+  <data key="d0">Washington</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">47.6205</data>
+  <data key="d5">-122.3625</data>
+</node>
+<node id="6236">
+  <data key="d0">North Carolina</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">35.3305</data>
+  <data key="d5">-81.8715</data>
+</node>
+<node id="6557">
+  <data key="d0">New York</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">40.7115</data>
+  <data key="d5">-74.0105</data>
+</node>
+<node id="6434">
+  <data key="d0">Washington</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">47.6205</data>
+  <data key="d5">-122.3625</data>
+</node>
+<node id="6066">
+  <data key="d0">Georgia</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">33.7795</data>
+  <data key="d5">-84.4205</data>
+</node>
+<node id="6074">
+  <data key="d0">California</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">37.7195</data>
+  <data key="d5">-122.3985</data>
+</node>
+<node id="6266">
+  <data key="d0">Florida</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d6">0.07417582415851975</data>
+  <data key="d4">25.7885</data>
+  <data key="d5">-80.2295</data>
+</node>
+<node id="6480">
+  <data key="d0">California</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">37.7195</data>
+  <data key="d5">-122.3985</data>
+</node>
+<node id="6061">
+  <data key="d0">Texas</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">32.7975</data>
+  <data key="d5">-96.8195</data>
+</node>
+<node id="6062">
+  <data key="d0">Florida</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d6">-2.233768725545815e-13</data>
+  <data key="d4">25.7885</data>
+  <data key="d5">-80.2295</data>
+</node>
+<node id="6065">
+  <data key="d0">Washington</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">47.6205</data>
+  <data key="d5">-122.3625</data>
+</node>
+<node id="6409">
+  <data key="d0">Texas</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">32.7975</data>
+  <data key="d5">-96.8195</data>
+</node>
+<node id="6524">
+  <data key="d0">Virginia</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">38.9475</data>
+  <data key="d5">-77.3715</data>
+</node>
+<node id="6289">
+  <data key="d0">Virginia</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d6">0.07417582415851975</data>
+  <data key="d4">38.9475</data>
+  <data key="d5">-77.3715</data>
+</node>
+<node id="6093">
+  <data key="d0">Texas</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">32.7975</data>
+  <data key="d5">-96.8195</data>
+</node>
+<node id="6125">
+  <data key="d0">California</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d6">2.1382895454280515e-13</data>
+  <data key="d4">37.7195</data>
+  <data key="d5">-122.3985</data>
+</node>
+<node id="6147">
+  <data key="d0">Florida</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d6">-2.2359891715950653e-13</data>
+  <data key="d4">25.7885</data>
+  <data key="d5">-80.2295</data>
+</node>
+<node id="6215">
+  <data key="d0">California</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d6">-0.3968253968268265</data>
+  <data key="d4">37.7195</data>
+  <data key="d5">-122.3985</data>
+</node>
+<node id="6292">
+  <data key="d0">Colorado</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d6">0.07417582415851975</data>
+  <data key="d4">39.7385</data>
+  <data key="d5">-104.9885</data>
+</node>
+<node id="6341">
+  <data key="d0">Virginia</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">38.9475</data>
+  <data key="d5">-77.3715</data>
+</node>
+<node id="6343">
+  <data key="d0">Illinois</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">40.4595</data>
+  <data key="d5">-87.6595</data>
+</node>
+<node id="6421">
+  <data key="d0">California</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d6">0.07417582415851975</data>
+  <data key="d4">37.7195</data>
+  <data key="d5">-122.3985</data>
+</node>
+<node id="6482">
+  <data key="d0">California</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">37.7195</data>
+  <data key="d5">-122.3985</data>
+</node>
+<node id="6216">
+  <data key="d0">Kansas</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">38.9505</data>
+  <data key="d5">-95.2625</data>
+</node>
+<node id="6072">
+  <data key="d0">Pennsylvania</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">39.9585</data>
+  <data key="d5">-75.6095</data>
+</node>
+<node id="6517">
+  <data key="d0">Virginia</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">38.9475</data>
+  <data key="d5">-77.3715</data>
+</node>
+<node id="6574">
+  <data key="d0">New Jersey</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d6">0.0741758241607578</data>
+  <data key="d4">40.3485</data>
+  <data key="d5">-74.6515</data>
+</node>
+<node id="6247">
+  <data key="d0">Virginia</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">38.9475</data>
+  <data key="d5">-77.3715</data>
+</node>
+<node id="6101">
+  <data key="d0">Arizona</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">33.4215</data>
+  <data key="d5">-112.0125</data>
+</node>
+<node id="6122">
+  <data key="d0">California</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">37.7195</data>
+  <data key="d5">-122.3985</data>
+</node>
+<node id="6373">
+  <data key="d0">Missouri</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">39.0985</data>
+  <data key="d5">-94.5795</data>
+</node>
+<node id="6452">
+  <data key="d0">Florida</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d6">-2.2359891715950653e-13</data>
+  <data key="d4">25.7885</data>
+  <data key="d5">-80.2295</data>
+</node>
+<node id="6208">
+  <data key="d0">Utah</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">37.0815</data>
+  <data key="d5">-113.6225</data>
+</node>
+<node id="6492">
+  <data key="d0">California</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d6">-9.814371537686384e-14</data>
+  <data key="d4">37.7195</data>
+  <data key="d5">-122.3985</data>
+</node>
+<node id="6525">
+  <data key="d0">California</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">37.7195</data>
+  <data key="d5">-122.3985</data>
+</node>
+<node id="6479">
+  <data key="d0">Virginia</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">38.9475</data>
+  <data key="d5">-77.3715</data>
+</node>
+<node id="6613">
+  <data key="d0">Iowa</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">41.2585</data>
+  <data key="d5">-95.8625</data>
+</node>
+<node id="6223">
+  <data key="d0">New Jersey</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">40.3485</data>
+  <data key="d5">-74.6515</data>
+</node>
+<node id="6570">
+  <data key="d0">North Carolina</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d6">0.07417582416075785</data>
+  <data key="d4">35.3305</data>
+  <data key="d5">-81.8715</data>
+</node>
+<node id="6045">
+  <data key="d0">California</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">37.7195</data>
+  <data key="d5">-122.3985</data>
+</node>
+<node id="6388">
+  <data key="d0">Pennsylvania</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">39.9585</data>
+  <data key="d5">-75.6095</data>
+</node>
+<node id="6428">
+  <data key="d0">Virginia</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">38.9475</data>
+  <data key="d5">-77.3715</data>
+</node>
+<node id="6454">
+  <data key="d0">Georgia</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">33.7795</data>
+  <data key="d5">-84.4205</data>
+</node>
+<node id="6411">
+  <data key="d0">California</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">37.7195</data>
+  <data key="d5">-122.3985</data>
+</node>
+<node id="6408">
+  <data key="d0">Arizona</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">33.4215</data>
+  <data key="d5">-112.0125</data>
+</node>
+<node id="6144">
+  <data key="d0">Virginia</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">38.9475</data>
+  <data key="d5">-77.3715</data>
+</node>
+<node id="6572">
+  <data key="d0">Georgia</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d6">0.07417582417062124</data>
+  <data key="d4">33.7795</data>
+  <data key="d5">-84.4205</data>
+</node>
+<node id="6389">
+  <data key="d0">Michigan</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">42.7105</data>
+  <data key="d5">-84.6685</data>
+</node>
+<node id="6436">
+  <data key="d0">New Jersey</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">40.3485</data>
+  <data key="d5">-74.6515</data>
+</node>
+<node id="6497">
+  <data key="d0">Virginia</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">38.9475</data>
+  <data key="d5">-77.3715</data>
+</node>
+<node id="6565">
+  <data key="d0">Illinois</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">40.4595</data>
+  <data key="d5">-87.6595</data>
+</node>
+<node id="6287">
+  <data key="d0">Minnesota</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">48.5805</data>
+  <data key="d5">-96.5185</data>
+</node>
+<node id="6265">
+  <data key="d0">Texas</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d6">0.07417582417062135</data>
+  <data key="d4">32.7975</data>
+  <data key="d5">-96.8195</data>
+</node>
+<node id="6155">
+  <data key="d0">Washington, D.C.</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">38.8995</data>
+  <data key="d5">-77.0205</data>
+</node>
+<node id="6280">
+  <data key="d0">Illinois</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">40.4595</data>
+  <data key="d5">-87.6595</data>
+</node>
+<node id="6127">
+  <data key="d0">New York</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">40.7115</data>
+  <data key="d5">-74.0105</data>
+</node>
+<node id="6140">
+  <data key="d0">Virginia</data>
+  <data key="d1">US</data>
+  <data key="d2">None</data>
+  <data key="d3">Northern America</data>
+  <data key="d4">38.9475</data>
+  <data key="d5">-77.3715</data>
+</node>
+<edge source="6422" target="6062">
+  <data key="d7">-2.233768725545815e-13</data>
+</edge>
+<edge source="6422" target="6147">
+  <data key="d7">-2.2359891715950653e-13</data>
+</edge>
+<edge source="6422" target="6452">
+  <data key="d7">-2.2359891715950653e-13</data>
+</edge>
+<edge source="6125" target="6215">
+  <data key="d7">2.1382895454280515e-13</data>
+</edge>
+<edge source="6215" target="6492">
+  <data key="d7">-9.814371537686384e-14</data>
+</edge>
+</graph></graphml>

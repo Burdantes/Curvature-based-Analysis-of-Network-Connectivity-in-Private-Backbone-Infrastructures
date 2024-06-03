@@ -1,0 +1,16 @@
+,FROM_PROBE,FROM_CITY,FROM_STATE,FROM_LATITUDE,FROM_LONGITUDE,TO_PROBE,TO_CITY,TO_STATE,TO_LATITUDE,TO_LONGITUDE,GREAT CIRCLE DISTANCE (in KM),RICCI
+200,6407,Seattle,Washington,"6407    47.6205
+Name: latitude, dtype: object","6407   -122.362
+Name: longitude, dtype: object",6259,Chicago,Illinois,"6259    41.8815
+Name: latitude, dtype: object","6259   -87.6305
+Name: longitude, dtype: object",2790.9305465185366,-0.30555555561695447
+814,6343,Chicago,Illinois,"6343    41.8485
+Name: latitude, dtype: object","6343   -87.6205
+Name: longitude, dtype: object",6065,Seattle,Washington,"6065    47.6095
+Name: latitude, dtype: object","6065   -122.34
+Name: longitude, dtype: object",2791.509394477132,-0.4490196078568609
+1180,6065,Seattle,Washington,"6065    47.6095
+Name: latitude, dtype: object","6065   -122.34
+Name: longitude, dtype: object",6280,Unknown,Illinois,"6280    41.9975
+Name: latitude, dtype: object","6280   -87.9685
+Name: longitude, dtype: object",2758.4121913006957,-0.4000000001027846

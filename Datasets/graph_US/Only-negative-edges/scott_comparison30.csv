@@ -1,0 +1,36 @@
+,FROM_PROBE,FROM_CITY,FROM_STATE,FROM_LATITUDE,FROM_LONGITUDE,TO_PROBE,TO_CITY,TO_STATE,TO_LATITUDE,TO_LONGITUDE,GREAT CIRCLE DISTANCE (in KM),RICCI
+199,6095,San Francisco,California,"6095    37.7195
+Name: latitude, dtype: object","6095   -122.398
+Name: longitude, dtype: object",6257,Lenexa,Kansas,"6257    38.9305
+Name: latitude, dtype: object","6257   -94.7505
+Name: longitude, dtype: object",2406.342422146365,-0.2692307695445113
+327,6373,Downtown Kansas City,Missouri,"6373    39.0985
+Name: latitude, dtype: object","6373   -94.5795
+Name: longitude, dtype: object",6480,Fremont,California,"6480    37.4675
+Name: latitude, dtype: object","6480   -121.918
+Name: longitude, dtype: object",2384.1194227920323,-0.25359911409535374
+400,6482,Fremont,California,"6482    37.4685
+Name: latitude, dtype: object","6482   -121.918
+Name: longitude, dtype: object",6257,Lenexa,Kansas,"6257    38.9305
+Name: latitude, dtype: object","6257   -94.7505
+Name: longitude, dtype: object",2370.8257597613574,-0.29953379976914496
+455,6061,Dallas,Texas,"6061    32.7975
+Name: latitude, dtype: object","6061   -96.8195
+Name: longitude, dtype: object",6492,Los Angeles,California,"6492    34.0485
+Name: latitude, dtype: object","6492   -118.258
+Name: longitude, dtype: object",1990.893320407025,-0.269230769329621
+685,6229,San Diego,California,"6229    32.8815
+Name: latitude, dtype: object","6229   -117.242
+Name: longitude, dtype: object",6613,Unknown,Iowa,"6613    41.2585
+Name: latitude, dtype: object","6613   -95.8625
+Name: longitude, dtype: object",2105.419683594867,-0.4074074083790227
+1081,6613,Unknown,Iowa,"6613    41.2585
+Name: latitude, dtype: object","6613   -95.8625
+Name: longitude, dtype: object",6215,Los Angeles,California,"6215    34.0495
+Name: latitude, dtype: object","6215   -118.243
+Name: longitude, dtype: object",2119.3066723881816,-0.40000000102861755
+1172,6156,San Francisco,California,"6156    37.7705
+Name: latitude, dtype: object","6156   -122.421
+Name: longitude, dtype: object",6437,Dallas,Texas,"6437    32.7905
+Name: latitude, dtype: object","6437   -96.7915
+Name: longitude, dtype: object",2383.232486612471,-0.2525439408533261

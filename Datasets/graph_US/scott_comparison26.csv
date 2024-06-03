@@ -1,0 +1,61 @@
+,FROM_PROBE,FROM_CITY,FROM_STATE,FROM_LATITUDE,FROM_LONGITUDE,TO_PROBE,TO_CITY,TO_STATE,TO_LATITUDE,TO_LONGITUDE,GREAT CIRCLE DISTANCE (in KM),RICCI
+370,6061,Dallas,Texas,"6061    32.7975
+Name: latitude, dtype: object","6061   -96.8195
+Name: longitude, dtype: object",6492,Los Angeles,California,"6492    34.0485
+Name: latitude, dtype: object","6492   -118.258
+Name: longitude, dtype: object",1990.893320407025,-0.4924242428029686
+480,6125,Unknown,California,"6125    33.9195
+Name: latitude, dtype: object","6125   -118.401
+Name: longitude, dtype: object",6409,Dallas,Texas,"6409    32.8415
+Name: latitude, dtype: object","6409   -96.8825
+Name: longitude, dtype: object",1998.0176850831606,-0.3657407419346985
+481,6125,Unknown,California,"6125    33.9195
+Name: latitude, dtype: object","6125   -118.401
+Name: longitude, dtype: object",6437,Dallas,Texas,"6437    32.7905
+Name: latitude, dtype: object","6437   -96.7915
+Name: longitude, dtype: object",2007.3369173922863,-0.37990196125542575
+482,6125,Unknown,California,"6125    33.9195
+Name: latitude, dtype: object","6125   -118.401
+Name: longitude, dtype: object",6265,Dallas,Texas,"6265    32.7795
+Name: latitude, dtype: object","6265   -96.7995
+Name: longitude, dtype: object",2006.8021981964046,-0.3657407408220872
+483,6125,Unknown,California,"6125    33.9195
+Name: latitude, dtype: object","6125   -118.401
+Name: longitude, dtype: object",6067,Dallas,Texas,"6067    32.8105
+Name: latitude, dtype: object","6067   -96.8595
+Name: longitude, dtype: object",2000.7014706235657,-0.4206989258877689
+551,6229,San Diego,California,"6229    32.8815
+Name: latitude, dtype: object","6229   -117.242
+Name: longitude, dtype: object",6093,Unknown,Texas,"6093    32.9885
+Name: latitude, dtype: object","6093   -96.9285
+Name: longitude, dtype: object",1892.779024807756,-0.3720538726319713
+552,6229,San Diego,California,"6229    32.8815
+Name: latitude, dtype: object","6229   -117.242
+Name: longitude, dtype: object",6265,Dallas,Texas,"6265    32.7795
+Name: latitude, dtype: object","6265   -96.7995
+Name: longitude, dtype: object",1907.0213868773074,-0.4831649831856004
+709,6492,Los Angeles,California,"6492    34.0485
+Name: latitude, dtype: object","6492   -118.258
+Name: longitude, dtype: object",6437,Dallas,Texas,"6437    32.7905
+Name: latitude, dtype: object","6437   -96.7915
+Name: longitude, dtype: object",1993.605514434244,-0.49732620340263045
+778,6093,Unknown,Texas,"6093    32.9885
+Name: latitude, dtype: object","6093   -96.9285
+Name: longitude, dtype: object",6215,Los Angeles,California,"6215    34.0495
+Name: latitude, dtype: object","6215   -118.243
+Name: longitude, dtype: object",1975.8365388942177,-0.37962962967936265
+849,6259,Chicago,Illinois,"6259    41.8815
+Name: latitude, dtype: object","6259   -87.6305
+Name: longitude, dtype: object",6292,Denver,Colorado,"6292    39.7385
+Name: latitude, dtype: object","6292   -104.989
+Name: longitude, dtype: object",1477.5403245565296,-0.25379939214927094
+921,6292,Denver,Colorado,"6292    39.7385
+Name: latitude, dtype: object","6292   -104.989
+Name: longitude, dtype: object",6389,Unknown,Michigan,"6389    42.4515
+Name: latitude, dtype: object","6389   -83.2585
+Name: longitude, dtype: object",1840.5289409231043,-0.27289377291701133
+923,6292,Denver,Colorado,"6292    39.7385
+Name: latitude, dtype: object","6292   -104.989
+Name: longitude, dtype: object",6418,Unknown,Indiana,"6418    39.9615
+Name: latitude, dtype: object","6418   -86.1525
+Name: longitude, dtype: object",1605.1722738747742,-0.28571428574722213
