@@ -1,6 +1,7 @@
 import pandas as pd
 import networkx as nx
 import sys
+import os
 sys.path.append('../')
 from GraphRicciCurvature.OllivierRicci import OllivierRicci
 from dataset_generation.write_anchormeshes import generating_latency_matrix
@@ -8,7 +9,7 @@ from dataset_generation.write_geography_matrix import generating_gcd_matrix
 from util import project_dir, start_date
 
 
-def graph_inference(df_residual, list_of_ids, outcome, edge_thresholds = range(2, 60, 2)):
+def graph_inference(df_residual, list_of_ids, output, edge_thresholds = range(2, 60, 2)):
     """
     Generate a graph from the residual latency dataframe, add attributes and perform Ricci curvature calculations.
 
@@ -22,6 +23,9 @@ def graph_inference(df_residual, list_of_ids, outcome, edge_thresholds = range(2
     None
     """
 
+    # Create output directory if it does not exist
+    os.makedirs(output, exist_ok=True)
+
     G = nx.Graph()
     df_residual.index = df_residual.index.map(str)
     G.add_nodes_from(list(df_residual.index))
@@ -32,10 +36,6 @@ def graph_inference(df_residual, list_of_ids, outcome, edge_thresholds = range(2
     nx.set_node_attributes(G, list_of_ids[2], 'continent')
     nx.set_node_attributes(G, list_of_ids[3], 'latitude')
     nx.set_node_attributes(G, list_of_ids[4], 'longitude')
-
-
-    # Printing initial debug information
-    print(df_residual.columns, df_residual.index)
 
     for threshold in edge_thresholds:
         # Adding edges based on the threshold
@@ -48,14 +48,14 @@ def graph_inference(df_residual, list_of_ids, outcome, edge_thresholds = range(2
         for node in ['6201', '6231']:
             if node in G.nodes():
                 G.remove_node(node)
-        compute_RicciCurv(G, outcome, threshold)
+        compute_RicciCurv(G, output, threshold)
 
-def compute_RicciCurv(G, outcome, threshold):
+def compute_RicciCurv(G, output, threshold):
     """ Process all connections and save the graph. """
     print(nx.info(G))
-    print([len(c) for c in sorted(nx.connected_components(G), key=len, reverse=True)])
+    # print([len(c) for c in sorted(nx.connected_components(G), key=len, reverse=True)])
 
-    G = OllivierRicci(G, alpha=0, method='OTD')
-    nx.write_graphml(G, f'{outcome}{threshold}.graphml')
+    G = OllivierRicci(G, alpha=0, method='OTD').G
+    nx.write_graphml(G, f'{output}/graph_ricci_{threshold}.graphml')
 
 

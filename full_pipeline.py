@@ -10,7 +10,7 @@ if __name__ == '__main__':
     df_latency = generating_latency_matrix(start_date)
     df_gcd = generating_gcd_matrix()
     df_residual = getting_residual_latency(df_latency, df_gcd)
-    path_to_list_of_ids = project_dir / 'Datasets' / 'ProbeFiles' / f'anchor_geoloc_{start_date}.pickle'
+    path_to_list_of_ids = f'{project_dir}/Datasets/ProbeFiles/anchor_geoloc_{start_date}.pickle'
     with open(path_to_list_of_ids, 'rb') as f:
         list_of_ids = pickle.load(f)
-    graph_inference(df_residual, list_of_ids, 'output_path', 'all')
+    graph_inference(df_residual, list_of_ids, f'{project_dir}/Datasets/Graph/{start_date}/', edge_thresholds=range(2, 120, 2))

@@ -2,7 +2,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import networkx as nx
 import pandas as pd
-from util
+import os
+from util import get_git_root, month, year
 
 def plot_ricci_curvature_vs_threshold(month, year, cloud_to_study):
     """
@@ -79,4 +80,4 @@ def plot_ricci_curvature_vs_threshold(month, year, cloud_to_study):
     plt.savefig(f'Outputs/Visuals/{cloud_to_study}/boxplot{month}-{year}.pdf')
 
 # Example usage
-# plot_ricci_curvature_vs_threshold('08', '2021')
+plot_ricci_curvature_vs_threshold(month, year, 'aws')

@@ -22,7 +22,7 @@ def date_to_timestamp(date_str):
     dt = datetime.strptime(date_str, "%Y-%m-%d")
     return int(time.mktime(dt.timetuple()))
 
-def infer_anchors(page_num, start_date, global_anchor_data, only_hypergiants=False, protocol='IPv4'):
+def infer_anchors(page_num, start_date, global_anchor_data, is_only_cloud=False, protocol='IPv4'):
     start_timestamp = date_to_timestamp(start_date)
     file_name = f'{project_dir}/Datasets/AnchorMeasurements/{start_date}/AnchorMeshes{page_num}.json'
 
@@ -41,20 +41,9 @@ def infer_anchors(page_num, start_date, global_anchor_data, only_hypergiants=Fal
                     print(measurement['target'])
                     with urllib.request.urlopen(measurement['target']) as target_results:
                         target_data = json.load(target_results)
-                        if only_hypergiants:
+                        if is_only_cloud:
                             if str(target_data['probe']) not in aws_anchors and str(target_data['probe']) not in google_anchors:
                                 continue
-                        # if probe_df.empty:
-                        #     continue
-                        #
-                        # probe_coordinates = probe_df.values[0]
-                        # if abs(probe_coordinates[0] - target_coordinates[0]) + abs(probe_coordinates[1] - target_coordinates[1]) > 1:
-                        #     print('This is dropped?!')
-                        #     continue
-                    # except:
-                    #     unknown_sources.append(measurement['target'])
-                    #     continue
-
                     source = target_data['probe']
                     with urllib.request.urlopen(measurement['measurement']) as measurement_results:
                         measurement_data = json.load(measurement_results)
@@ -103,16 +92,16 @@ def generating_latency_matrix(start_date):
     global_anchor_data = manager.dict()
     page_nums = range(1, 105)  # Adjust range as necessary
     with ProcessPoolExecutor(9) as executor:
-        futures = [executor.submit(infer_anchors, page_num, start_date, global_anchor_data, only_hypergiants=False) for page_num in page_nums]
+        futures = [executor.submit(infer_anchors, page_num, start_date, global_anchor_data, is_only_cloud=is_only_cloud) for page_num in page_nums]
 
         for future in as_completed(futures):
             try:
                 future.result()
             except Exception as e:
                 print(f"Error in processing: {e}")
-
     df_latency = putting_into_latencymatrix(f'{project_dir}/Datasets/AnchorMeasurements/{start_date}', f'{project_dir}/Datasets/AnchorMeasurements/{start_date}/AnchorMeshes.csv')
-    symmetrize(df_latency)
+    df_latency = symmetrize(df_latency)
+    print('Shape of latency matrix is' , df_latency.shape)
     return df_latency
 
 if __name__ == '__main__':

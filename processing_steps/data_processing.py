@@ -16,11 +16,12 @@ def symmetrize(data):
     Returns:
     DataFrame: Symmetrized DataFrame.
     """
+    common_indices = data.index.intersection(data.columns)
+    data = data.loc[common_indices, common_indices]
     mat = data.values
     sym_mat = np.where(np.isnan(mat), mat.T, mat)
     sym_mat = np.where(np.isnan(sym_mat), sym_mat.T, sym_mat)
     sym_mat = np.minimum(sym_mat, sym_mat.T, where=~np.isnan(sym_mat), out=sym_mat)
-
     return pd.DataFrame(sym_mat, index=data.index, columns=data.columns)
 
 def intersection_of_df(df, df1):
