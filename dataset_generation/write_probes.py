@@ -47,11 +47,11 @@ def adding_ripe_atlas_probes(year, month):
     df_probes['prefix'] = df_probes['prefix_v4'].str.split("/", n=1, expand=True)[0]
     df_probes['asn_v4'] = df_probes['asn_v4'].astype(int, errors = 'ignore')
     df_probes['asn_v6'] = df_probes['asn_v6'].astype(int, errors = 'ignore')
+    df_probes = df_probes[(df_probes['is_anchor']) & (df_probes['status_name'] == 'Connected')]
 
     # Return all probes that are anchors and are connected
     if not os.path.exists(project_dir / 'Datasets' / 'ProbeFiles'/ 'aws_anchors.json') or not os.path.exists(project_dir / 'Datasets' / 'ProbeFiles'/ 'google_anchors.json'):
         # Return anchors for Google and AWS
-        df_probes = df_probes[(df_probes['is_anchor']) & (df_probes['status_name'] == 'Connected')]
         df_probes_google = df_probes[df_probes['asn_v4'].isin(ases_hypergiants['google'])]
         df_probes_aws = df_probes[df_probes['asn_v4'].isin(ases_hypergiants['amazon'])]
         for probe in tqdm(df_probes_google.index):
@@ -80,11 +80,11 @@ def adding_ripe_atlas_probes(year, month):
         for probe in tqdm(df_probes.index):
             (city, country, continent) = reverseGeocode((df_probes.at[probe, 'latitude'],
                                                           df_probes.at[probe, 'longitude']))
-            anchor_city[probe] = city
-            anchor_country[probe] = country
-            anchor_continent[probe] = continent
-            anchor_lat[probe] = df_probes.at[probe, 'latitude']
-            anchor_lon[probe] = df_probes.at[probe, 'longitude']
+            anchor_city[str(probe)] = city
+            anchor_country[str(probe)] = country
+            anchor_continent[str(probe)] = continent
+            anchor_lat[str(probe)] = df_probes.at[probe, 'latitude']
+            anchor_lon[str(probe)] = df_probes.at[probe, 'longitude']
 
         with open(project_dir / 'Datasets' / 'ProbeFiles'/ f'anchor_geoloc_{start_date}.pickle', 'wb') as f:
             pickle.dump((anchor_city, anchor_country, anchor_continent, anchor_lat, anchor_lon), f)

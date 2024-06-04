@@ -90,15 +90,15 @@ def generating_latency_matrix(start_date):
     os.makedirs(f'{project_dir}/Datasets/AnchorMeasurements/{start_date}', exist_ok=True)
     manager = Manager()
     global_anchor_data = manager.dict()
-    page_nums = range(1, 105)  # Adjust range as necessary
-    with ProcessPoolExecutor(9) as executor:
-        futures = [executor.submit(infer_anchors, page_num, start_date, global_anchor_data, is_only_cloud=is_only_cloud) for page_num in page_nums]
-
-        for future in as_completed(futures):
-            try:
-                future.result()
-            except Exception as e:
-                print(f"Error in processing: {e}")
+    # page_nums = range(1, 105)  # Adjust range as necessary
+    # with ProcessPoolExecutor(9) as executor:
+    #     futures = [executor.submit(infer_anchors, page_num, start_date, global_anchor_data, is_only_cloud=is_only_cloud) for page_num in page_nums]
+    #
+    #     for future in as_completed(futures):
+    #         try:
+    #             future.result()
+    #         except Exception as e:
+    #             print(f"Error in processing: {e}")
     df_latency = putting_into_latencymatrix(f'{project_dir}/Datasets/AnchorMeasurements/{start_date}', f'{project_dir}/Datasets/AnchorMeasurements/{start_date}/AnchorMeshes.csv')
     df_latency = symmetrize(df_latency)
     print('Shape of latency matrix is' , df_latency.shape)

@@ -3,9 +3,9 @@ import seaborn as sns
 import networkx as nx
 import pandas as pd
 import os
-from util import get_git_root, month, year
+from util import month, year, project_dir, start_date, which_cloud
 
-def plot_ricci_curvature_vs_threshold(month, year, cloud_to_study):
+def plot_ricci_curvature_vs_threshold(month, year, threshold_range, cloud_to_study = None):
     """
     Plot the Ricci Curvature against different threshold values for cloud graphs.
 
@@ -22,19 +22,20 @@ def plot_ricci_curvature_vs_threshold(month, year, cloud_to_study):
     thresholds = []
     connected_components_sizes = {}
 
-    # Define the range of threshold values to be considered
-    threshold_range = range(10, 300, 10)
-
     for threshold in threshold_range:
         try:
-            # Read the graphml file for the given threshold
-            graph = nx.read_graphml(f'../graph/AWS/graph{year}-{month}-{threshold}.graphml')
+            if cloud_to_study:
+                # Read the graphml file for the given threshold
+                graph = nx.read_graphml(f'{project_dir}/Datasets/Graph/{start_date}/{cloud_to_study}_graph_ricci_{threshold}.graphml')
+            else:
+                # Read the graphml file for the given threshold
+                graph = nx.read_graphml(f'{project_dir}/Datasets/Graph/{start_date}/graph_ricci_{threshold}.graphml')
         except FileNotFoundError:
             # If file is not found, add zero values and continue
             thresholds.append(threshold)
             ricci_curvature_values.extend([0, 0])
             continue
-
+        print(graph.edges(data=True))
         # Get Ricci Curvature values for the edges
         ricci_curvature_dict = nx.get_edge_attributes(graph, 'ricciCurvature')
         ricci_curvature_values.extend(ricci_curvature_dict.values())
@@ -43,7 +44,7 @@ def plot_ricci_curvature_vs_threshold(month, year, cloud_to_study):
         top_ricci_curvatures = sorted(ricci_curvature_dict.items(), key=lambda x: x[1])[:10]
 
         # Get the cities attribute from the graph
-        cities = nx.get_node_attributes(graph, 'cities')
+        cities = nx.get_node_attributes(graph, 'city')
 
         # Print the threshold and corresponding cities for debug purposes
         print(threshold, cities)
@@ -58,6 +59,7 @@ def plot_ricci_curvature_vs_threshold(month, year, cloud_to_study):
     df = pd.DataFrame(ricci_curvature_values, columns=['Ricci Curvature'])
     df['Threshold'] = pd.Series(thresholds)
 
+    print(df)
     # Create a figure for the plot
     fig = plt.figure(figsize=(12, 10))
     ax = fig.add_subplot()
@@ -75,9 +77,14 @@ def plot_ricci_curvature_vs_threshold(month, year, cloud_to_study):
     plt.xlabel('Threshold', fontsize=25)
     plt.xticks(fontsize=12)
     plt.yticks(fontsize=20)
-    os.makedirs(f'Outputs/Visuals/{cloud_to_study}', exist_ok=True)
-    # Save the plot as a PDF file
-    plt.savefig(f'Outputs/Visuals/{cloud_to_study}/boxplot{month}-{year}.pdf')
+    if cloud_to_study:
+        os.makedirs(f'{project_dir}/Outputs/Visuals/{cloud_to_study}', exist_ok=True)
+        # Save the plot as a PDF file
+        plt.savefig(f'{project_dir}/Outputs/Visuals/{cloud_to_study}/boxplot{month}-{year}.pdf')
+    else:
+        os.makedirs(f'{project_dir}/Outputs/Visuals', exist_ok=True)
+        # Save the plot as a PDF file
+        plt.savefig(f'{project_dir}/Outputs/Visuals/boxplot{month}-{year}.pdf')
 
 # Example usage
-plot_ricci_curvature_vs_threshold(month, year, 'aws')
+plot_ricci_curvature_vs_threshold(month, year, range(2, 120, 10), which_cloud)

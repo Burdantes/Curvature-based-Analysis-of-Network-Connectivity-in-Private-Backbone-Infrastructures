@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="ricciCurvature" attr.type="double"/>
+<key id="d6" for="node" attr.name="ricciCurvature" attr.type="double"/>
+<key id="d5" for="node" attr.name="is_google" attr.type="long"/>
+<key id="d4" for="node" attr.name="longitude" attr.type="float"/>
+<key id="d3" for="node" attr.name="latitude" attr.type="float"/>
+<key id="d2" for="node" attr.name="continent" attr.type="string"/>
+<key id="d1" for="node" attr.name="country" attr.type="string"/>
+<key id="d0" for="node" attr.name="city" attr.type="string"/>
+<graph edgedefault="undirected"><node id="6705">
+  <data key="d0">Mumbai</data>
+  <data key="d1">IN</data>
+  <data key="d2">AS</data>
+  <data key="d3">19.0795</data>
+  <data key="d4">72.8775</data>
+  <data key="d5">1</data>
+  <data key="d6">1.1102230246251565e-16</data>
+</node>
+<node id="6704">
+  <data key="d0">Osaka-shi</data>
+  <data key="d1">JP</data>
+  <data key="d2">AS</data>
+  <data key="d3">34.6895</data>
+  <data key="d4">135.4975</data>
+  <data key="d5">1</data>
+  <data key="d6">0.5892857141358657</data>
+</node>
+<node id="6710">
+  <data key="d0">Montreal</data>
+  <data key="d1">CA</data>
+  <data key="d2">NA</data>
+  <data key="d3">45.4975</data>
+  <data key="d4">-73.5725</data>
+  <data key="d5">1</data>
+  <data key="d6">0.5598737367733222</data>
+</node>
+<node id="6698">
+  <data key="d0">The Dalles</data>
+  <data key="d1">US</data>
+  <data key="d2">NA</data>
+  <data key="d3">45.5915</data>
+  <data key="d4">-121.1785</data>
+  <data key="d5">1</data>
+  <data key="d6">0.263079776988124</data>
+</node>
+<node id="6707">
+  <data key="d0">Hamina</data>
+  <data key="d1">FI</data>
+  <data key="d2">EU</data>
+  <data key="d3">60.5705</data>
+  <data key="d4">27.1875</data>
+  <data key="d5">1</data>
+  <data key="d6">0.5939454063267201</data>
+</node>
+<node id="6703">
+  <data key="d0">Tokyo</data>
+  <data key="d1">JP</data>
+  <data key="d2">AS</data>
+  <data key="d3">35.6785</data>
+  <data key="d4">139.7675</data>
+  <data key="d5">1</data>
+  <data key="d6">-0.04081632667486822</data>
+</node>
+<node id="6708">
+  <data key="d0">Frankfurt am Main</data>
+  <data key="d1">DE</data>
+  <data key="d2">EU</data>
+  <data key="d3">50.1115</data>
+  <data key="d4">8.6775</data>
+  <data key="d5">1</data>
+  <data key="d6">0.6478354976430659</data>
+</node>
+<node id="6711">
+  <data key="d0">Sao Paulo</data>
+  <data key="d1">BR</data>
+  <data key="d2">SA</data>
+  <data key="d3">-23.5525</data>
+  <data key="d4">-46.6325</data>
+  <data key="d5">1</data>
+</node>
+<node id="6712">
+  <data key="d0">Saint-Ghislain</data>
+  <data key="d1">BE</data>
+  <data key="d2">EU</data>
+  <data key="d3">50.4485</data>
+  <data key="d4">3.8175</data>
+  <data key="d5">1</data>
+  <data key="d6">0.6253472217565588</data>
+</node>
+<node id="6706">
+  <data key="d0">Sham Shui Po</data>
+  <data key="d1">HK</data>
+  <data key="d2">AS</data>
+  <data key="d3">22.3205</data>
+  <data key="d4">114.1675</data>
+  <data key="d5">1</data>
+  <data key="d6">0.5892857141100808</data>
+</node>
+<node id="6613">
+  <data key="d0">Council Bluffs</data>
+  <data key="d1">US</data>
+  <data key="d2">NA</data>
+  <data key="d3">41.2585</data>
+  <data key="d4">-95.8625</data>
+  <data key="d5">1</data>
+  <data key="d6">0.5469284678655608</data>
+</node>
+<node id="6688">
+  <data key="d0">Sydney</data>
+  <data key="d1">AU</data>
+  <data key="d2">OC</data>
+  <data key="d3">-33.8685</data>
+  <data key="d4">151.2115</data>
+  <data key="d5">1</data>
+  <data key="d6">0.15476190475995238</data>
+</node>
+<node id="6702">
+  <data key="d0">Appingedam</data>
+  <data key="d1">NL</data>
+  <data key="d2">EU</data>
+  <data key="d3">53.4385</data>
+  <data key="d4">6.8375</data>
+  <data key="d5">1</data>
+  <data key="d6">0.6478354976250921</data>
+</node>
+<node id="6614">
+  <data key="d0">Moncks Corner</data>
+  <data key="d1">US</data>
+  <data key="d2">NA</data>
+  <data key="d3">33.1995</data>
+  <data key="d4">-80.0125</data>
+  <data key="d5">1</data>
+  <data key="d6">0.5353174596882905</data>
+</node>
+<node id="6615">
+  <data key="d0">Ashburn</data>
+  <data key="d1">US</data>
+  <data key="d2">NA</data>
+  <data key="d3">39.0395</data>
+  <data key="d4">-77.4925</data>
+  <data key="d5">1</data>
+  <data key="d6">0.5628689488249422</data>
+</node>
+<node id="6699">
+  <data key="d0">London</data>
+  <data key="d1">GB</data>
+  <data key="d2">EU</data>
+  <data key="d3">51.5115</data>
+  <data key="d4">-0.1285</data>
+  <data key="d5">1</data>
+  <data key="d6">0.592889609964734</data>
+</node>
+<node id="6697">
+  <data key="d0">Los Angeles</data>
+  <data key="d1">US</data>
+  <data key="d2">NA</data>
+  <data key="d3">34.0505</data>
+  <data key="d4">-118.2385</data>
+  <data key="d5">1</data>
+  <data key="d6">0.21982323218096977</data>
+</node>
+<node id="6701">
+  <data key="d0">Johor Bahru</data>
+  <data key="d1">MY</data>
+  <data key="d2">AS</data>
+  <data key="d3">1.3375</data>
+  <data key="d4">103.7075</data>
+  <data key="d5">1</data>
+  <data key="d6">0.349206348968831</data>
+</node>
+<node id="6709">
+  <data key="d0">Zuerich (Kreis 5) / Gewerbeschule</data>
+  <data key="d1">CH</data>
+  <data key="d2">EU</data>
+  <data key="d3">47.3815</data>
+  <data key="d4">8.5375</data>
+  <data key="d5">1</data>
+  <data key="d6">0.6135682216357856</data>
+</node>
+<node id="6700">
+  <data key="d0">Chang-hua</data>
+  <data key="d1">TW</data>
+  <data key="d2">AS</data>
+  <data key="d3">24.0475</data>
+  <data key="d4">120.5175</data>
+  <data key="d5">1</data>
+  <data key="d6">0.5892857139712515</data>
+</node>
+<edge source="6705" target="6701">
+  <data key="d7">1.1102230246251565e-16</data>
+</edge>
+<edge source="6704" target="6703">
+  <data key="d7">0.357142857114531</data>
+</edge>
+<edge source="6704" target="6700">
+  <data key="d7">0.7499999998596061</data>
+</edge>
+<edge source="6704" target="6706">
+  <data key="d7">0.7499999998596061</data>
+</edge>
+<edge source="6704" target="6701">
+  <data key="d7">0.49999999970971964</data>
+</edge>
+<edge source="6710" target="6615">
+  <data key="d7">0.8181818181306466</data>
+</edge>
+<edge source="6710" target="6614">
+  <data key="d7">0.6999999983023104</data>
+</edge>
+<edge source="6710" target="6613">
+  <data key="d7">0.599999999004936</data>
+</edge>
+<edge source="6710" target="6699">
+  <data key="d7">0.7999999987674088</data>
+</edge>
+<edge source="6710" target="6698">
+  <data key="d7">0.3714285711719634</data>
+</edge>
+<edge source="6710" target="6697">
+  <data key="d7">0.29999999993077686</data>
+</edge>
+<edge source="6710" target="6709">
+  <data key="d7">0.6555555553473245</data>
+</edge>
+<edge source="6710" target="6708">
+  <data key="d7">0.4142857142724282</data>
+</edge>
+<edge source="6710" target="6712">
+  <data key="d7">0.5249999985329987</data>
+</edge>
+<edge source="6710" target="6702">
+  <data key="d7">0.414285714272428</data>
+</edge>
+<edge source="6698" target="6697">
+  <data key="d7">0.7142857142190522</data>
+</edge>
+<edge source="6698" target="6613">
+  <data key="d7">0.7142857128884103</data>
+</edge>
+<edge source="6698" target="6615">
+  <data key="d7">0.2987012982326024</data>
+</edge>
+<edge source="6698" target="6614">
+  <data key="d7">0.5714285713347946</data>
+</edge>
+<edge source="6698" target="6703">
+  <data key="d7">-1.0000000003180016</data>
+</edge>
+<edge source="6698" target="6699">
+  <data key="d7">0.17142857138804657</data>
+</edge>
+<edge source="6707" target="6699">
+  <data key="d7">0.499999999964843</data>
+</edge>
+<edge source="6707" target="6709">
+  <data key="d7">0.5555555555394578</data>
+</edge>
+<edge source="6707" target="6708">
+  <data key="d7">0.7142857142659961</data>
+</edge>
+<edge source="6707" target="6712">
+  <data key="d7">0.6249999999859213</data>
+</edge>
+<edge source="6707" target="6702">
+  <data key="d7">0.7142857142659961</data>
+</edge>
+<edge source="6707" target="6615">
+  <data key="d7">0.4545454539381071</data>
+</edge>
+<edge source="6703" target="6700">
+  <data key="d7">0.35714285701139126</data>
+</edge>
+<edge source="6703" target="6706">
+  <data key="d7">0.35714285701139115</data>
+</edge>
+<edge source="6703" target="6701">
+  <data key="d7">0.42857142853502406</data>
+</edge>
+<edge source="6703" target="6697">
+  <data key="d7">-0.9285714288941989</data>
+</edge>
+<edge source="6703" target="6688">
+  <data key="d7">0.14285714281578532</data>
+</edge>
+<edge source="6708" target="6699">
+  <data key="d7">0.5999999994504256</data>
+</edge>
+<edge source="6708" target="6709">
+  <data key="d7">0.6666666666146679</data>
+</edge>
+<edge source="6708" target="6712">
+  <data key="d7">0.7499999999016239</data>
+</edge>
+<edge source="6708" target="6702">
+  <data key="d7">0.8571428570107994</data>
+</edge>
+<edge source="6708" target="6615">
+  <data key="d7">0.5324675319855202</data>
+</edge>
+<edge source="6712" target="6699">
+  <data key="d7">0.6999999995656303</data>
+</edge>
+<edge source="6712" target="6709">
+  <data key="d7">0.7777777767621575</data>
+</edge>
+<edge source="6712" target="6702">
+  <data key="d7">0.7499999997758078</data>
+</edge>
+<edge source="6712" target="6615">
+  <data key="d7">0.6249999995383936</data>
+</edge>
+<edge source="6712" target="6614">
+  <data key="d7">0.24999999998993672</data>
+</edge>
+<edge source="6706" target="6700">
+  <data key="d7">0.7499999998596061</data>
+</edge>
+<edge source="6706" target="6701">
+  <data key="d7">0.49999999970971964</data>
+</edge>
+<edge source="6613" target="6615">
+  <data key="d7">0.5324675320312935</data>
+</edge>
+<edge source="6613" target="6614">
+  <data key="d7">0.7499999998515486</data>
+</edge>
+<edge source="6613" target="6697">
+  <data key="d7">0.5476190475821626</data>
+</edge>
+<edge source="6613" target="6699">
+  <data key="d7">0.41428571388377056</data>
+</edge>
+<edge source="6613" target="6709">
+  <data key="d7">0.2698412698168039</data>
+</edge>
+<edge source="6688" target="6701">
+  <data key="d7">0.16666666670411945</data>
+</edge>
+<edge source="6702" target="6699">
+  <data key="d7">0.5999999994504255</data>
+</edge>
+<edge source="6702" target="6709">
+  <data key="d7">0.6666666666146679</data>
+</edge>
+<edge source="6702" target="6615">
+  <data key="d7">0.5324675319855201</data>
+</edge>
+<edge source="6614" target="6615">
+  <data key="d7">0.6249999988700257</data>
+</edge>
+<edge source="6614" target="6699">
+  <data key="d7">0.5249999990722953</data>
+</edge>
+<edge source="6614" target="6697">
+  <data key="d7">0.4583333331952836</data>
+</edge>
+<edge source="6614" target="6709">
+  <data key="d7">0.4027777768901283</data>
+</edge>
+<edge source="6615" target="6699">
+  <data key="d7">0.8181818181385735</data>
+</edge>
+<edge source="6615" target="6697">
+  <data key="d7">0.22727272705274237</data>
+</edge>
+<edge source="6615" target="6709">
+  <data key="d7">0.7272727271709395</data>
+</edge>
+<edge source="6699" target="6709">
+  <data key="d7">0.7999999999659216</data>
+</edge>
+<edge source="6701" target="6700">
+  <data key="d7">0.49999999915440285</data>
+</edge>
+</graph></graphml>

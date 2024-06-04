@@ -12,6 +12,7 @@ year = start_date.split('-')[0]
 month = start_date.split('-')[1]
 day = start_date.split('-')[2]
 is_only_cloud = False # Set to True if you want to only consider cloud providers (that is Google and AWS)
+which_cloud = 'aws' # Set to 'google' or 'aws'
 ##############################
 
 def get_git_root():

@@ -13,4 +13,5 @@ if __name__ == '__main__':
     path_to_list_of_ids = f'{project_dir}/Datasets/ProbeFiles/anchor_geoloc_{start_date}.pickle'
     with open(path_to_list_of_ids, 'rb') as f:
         list_of_ids = pickle.load(f)
-    graph_inference(df_residual, list_of_ids, f'{project_dir}/Datasets/Graph/{start_date}/', edge_thresholds=range(2, 120, 2))
+    print(list_of_ids)
+    graph_inference(df_residual, list_of_ids, f'{project_dir}/Datasets/Graph/{start_date}/', edge_thresholds=range(2, 120, 10), cloud = which_cloud)
