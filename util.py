@@ -11,8 +11,11 @@ start_date = '2023-01-01'
 year = start_date.split('-')[0]
 month = start_date.split('-')[1]
 day = start_date.split('-')[2]
-is_only_cloud = False # Set to True if you want to only consider cloud providers (that is Google and AWS)
 which_cloud = 'aws' # Set to 'google' or 'aws'
+if which_cloud in ['aws', 'google']:
+    is_only_cloud = True
+else:
+    is_only_cloud = False
 ##############################
 
 def get_git_root():

@@ -25,7 +25,7 @@ pip install -r requirements.txt
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-After installing the dependencies, you can collect the latency measurements for all the anchor meshes for a given date by updating the **start_date** in the util.py script (it is automatically set at **start_date = '2023-01-01'**) and run the full_pipeline.py script: 
+After installing the dependencies, you can collect the latency measurements for all the anchor meshes for a given date by updating the **start_date** in the util.py script (it is automatically set at **start_date = '2023-01-01'**). You can also mention which cloud you would like to focus on (AWS or Google) by updating the variable **which_cloud** to *aws* or *google*, you can then run the full_pipeline.py script: 
 
 ```sh
 python full_pipeline.py
